@@ -13,9 +13,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "0.80%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AACQU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AACQW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-14",
     "Estimated Completion Deadline Date": "2022-07-14",
@@ -24,7 +24,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "9.45%"
+    "Progress to Completion": "9.59%"
   },
   {
     "SPAC Ticker Symbol": "ACAM",
@@ -40,9 +40,9 @@
     "Trust Value Per Share": "$10.18",
     "Discount/Premium to Trust Value per Share": "1.46%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACAMU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACAMW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-02-21",
     "Estimated Completion Deadline Date": "2021-02-20",
@@ -51,7 +51,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "79.18%"
+    "Progress to Completion": "79.32%"
   },
   {
     "SPAC Ticker Symbol": "ACEV",
@@ -67,9 +67,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-2.20%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACEVU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACEV.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-28",
     "Estimated Completion Deadline Date": "2022-01-26",
@@ -78,7 +78,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "10.05%"
+    "Progress to Completion": "10.23%"
   },
   {
     "SPAC Ticker Symbol": "ACND",
@@ -94,9 +94,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-0.30%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACND.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ACND.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-24",
     "Estimated Completion Deadline Date": "2022-07-24",
@@ -105,7 +105,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "8.08%"
+    "Progress to Completion": "8.22%"
   },
   {
     "SPAC Ticker Symbol": "ACTC",
@@ -121,12 +121,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Dr. Ja-Chin Audrey Lee (Former VP, Energy Services, Sunrun), Arno Harris (Former Founder/CEO, Recurrent Energy; Director, Pacific Gas & Electric)",
     "Underwriter(s)": "Citigroup, Barclays",
     "SEC Filings": "SEC Filings",
@@ -148,12 +146,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "I-Bankers Securities",
     "SEC Filings": "SEC Filings",
@@ -175,9 +171,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AGBAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AGBAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-05-14",
     "Estimated Completion Deadline Date": "2020-11-16",
@@ -186,7 +182,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "89.86%"
+    "Progress to Completion": "90.04%"
   },
   {
     "SPAC Ticker Symbol": "AHAC",
@@ -202,9 +198,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AHACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-17",
     "Estimated Completion Deadline Date": "2022-09-17",
@@ -213,7 +208,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.55%"
+    "Progress to Completion": "0.68%"
   },
   {
     "SPAC Ticker Symbol": "ALAC",
@@ -229,9 +224,9 @@
     "Trust Value Per Share": "$26.15",
     "Discount/Premium to Trust Value per Share": "-59.20%",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ALACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ALACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-10-24",
     "Estimated Completion Deadline Date": "2020-10-26",
@@ -240,7 +235,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "95.23%"
+    "Progress to Completion": "95.36%"
   },
   {
     "SPAC Ticker Symbol": "ALUS",
@@ -256,9 +251,9 @@
     "Trust Value Per Share": "$10.07",
     "Discount/Premium to Trust Value per Share": "-0.24%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ALUS.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ALUS.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-26",
     "Estimated Completion Deadline Date": "2021-11-25",
@@ -267,7 +262,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "41.10%"
+    "Progress to Completion": "41.23%"
   },
   {
     "SPAC Ticker Symbol": "AMCI",
@@ -283,9 +278,9 @@
     "Trust Value Per Share": "$10.24",
     "Discount/Premium to Trust Value per Share": "0.42%",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AMCIU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AMCIW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-11-15",
     "Estimated Completion Deadline Date": "2020-10-20",
@@ -294,7 +289,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Mining",
-    "Progress to Completion": "95.89%"
+    "Progress to Completion": "96.03%"
   },
   {
     "SPAC Ticker Symbol": "AMHC",
@@ -310,9 +305,9 @@
     "Trust Value Per Share": "$10.04",
     "Discount/Premium to Trust Value per Share": "-1.30%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AMHCU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AMHCW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-19",
     "Estimated Completion Deadline Date": "2020-10-20",
@@ -321,7 +316,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "91.37%"
+    "Progress to Completion": "91.67%"
   },
   {
     "SPAC Ticker Symbol": "ANDA",
@@ -337,9 +332,9 @@
     "Trust Value Per Share": "$11.53",
     "Discount/Premium to Trust Value per Share": "-11.82%",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ANDAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ANDAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-01-28",
     "Estimated Completion Deadline Date": "2020-10-31",
@@ -348,7 +343,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Cannabis",
-    "Progress to Completion": "93.77%"
+    "Progress to Completion": "93.93%"
   },
   {
     "SPAC Ticker Symbol": "AONE",
@@ -364,9 +359,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "17",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=AONEU&insttype=Fund",
+    "Est. Days Until Unit Separation": "16",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-17",
     "Estimated Completion Deadline Date": "2022-08-17",
@@ -375,7 +369,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.79%"
+    "Progress to Completion": "4.93%"
   },
   {
     "SPAC Ticker Symbol": "APSG",
@@ -391,12 +385,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Sanjay Patel (Chairman Int'l & SP of PE, Apollo), Scott Kleinman (Co-President, Apollo Global Mgmt), Jennifer Fleiss (Co-founder,Rent the Runway; Fmr CEO, Jetblack) Mitch Garber (Fmr CEO, Optimal Payments; Director, Rackspace & Shutterfly)",
     "Underwriter(s)": "Citigroup, Credit Suisse, Goldman Sachs",
     "SEC Filings": "SEC Filings",
@@ -418,9 +410,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=APXTU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=APXTW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-09-17",
     "Estimated Completion Deadline Date": "2021-09-16",
@@ -429,7 +421,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "50.68%"
+    "Progress to Completion": "50.82%"
   },
   {
     "SPAC Ticker Symbol": "ARYA",
@@ -445,9 +437,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [No units]; W: [No warrants]",
-    "Unit Link": "",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-08-06",
     "Estimated Completion Deadline Date": "2022-08-06",
@@ -456,7 +446,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.30%"
+    "Progress to Completion": "6.44%"
   },
   {
     "SPAC Ticker Symbol": "ARYB",
@@ -472,9 +462,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ARYBU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ARYBW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-05",
     "Estimated Completion Deadline Date": "2022-06-05",
@@ -483,7 +473,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Neuroscience Drug Development\n",
-    "Progress to Completion": "14.79%"
+    "Progress to Completion": "14.93%"
   },
   {
     "SPAC Ticker Symbol": "ASAQ",
@@ -499,12 +489,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Cowen",
     "SEC Filings": "SEC Filings",
@@ -526,12 +514,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Ravi Thakran (South Asia Group Chairman of LVMH, Chairman L Catterton Asia)",
     "Underwriter(s)": "Credit Suisse",
     "SEC Filings": "SEC Filings",
@@ -553,12 +539,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Citigroup, Goldman Sachs",
     "SEC Filings": "SEC Filings",
@@ -580,12 +564,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Ladenburg Thalmann\n",
     "SEC Filings": "SEC Filings",
@@ -607,9 +589,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [No units]; W: [No warrants]",
-    "Unit Link": "",
-    "Est. Days Until Unit Separation": "34",
-    "Warrant Link": "",
+    "Est. Days Until Unit Separation": "33",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-09-03",
     "Estimated Completion Deadline Date": "2022-09-03",
@@ -618,7 +598,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "2.47%"
+    "Progress to Completion": "2.60%"
   },
   {
     "SPAC Ticker Symbol": "BFT",
@@ -634,9 +614,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "18",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BFTU&insttype=Fund",
+    "Est. Days Until Unit Separation": "17",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-18",
     "Estimated Completion Deadline Date": "2022-08-18",
@@ -645,7 +624,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.66%"
+    "Progress to Completion": "4.79%"
   },
   {
     "SPAC Ticker Symbol": "BHSE",
@@ -661,12 +640,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Baron Davis (Former NBA Player)",
     "Underwriter(s)": "Imperial Capital\n",
     "SEC Filings": "SEC Filings",
@@ -688,12 +665,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Maxim",
     "SEC Filings": "SEC Filings",
@@ -715,9 +690,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BMRG.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BMRG.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-20",
     "Estimated Completion Deadline Date": "2022-05-20",
@@ -726,7 +701,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Energy Storage, E.V., Sustainability",
-    "Progress to Completion": "16.99%"
+    "Progress to Completion": "17.12%"
   },
   {
     "SPAC Ticker Symbol": "BOAC",
@@ -742,12 +717,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "C. John Wilder (Former CEO, Shell Capital; Former CEO, TXU Corp), Duncan Palmer (CFO, Cushman & Wakefield)",
     "Underwriter(s)": "Citigroup",
     "SEC Filings": "SEC Filings",
@@ -769,9 +742,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "5",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BOWXU&insttype=Fund",
+    "Est. Days Until Unit Separation": "4",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-05",
     "Estimated Completion Deadline Date": "2022-08-05",
@@ -780,7 +752,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.44%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "BRLI",
@@ -796,9 +768,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BRLIU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BRLI.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-24",
     "Estimated Completion Deadline Date": "2022-03-24",
@@ -807,7 +779,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "13.93%"
+    "Progress to Completion": "14.09%"
   },
   {
     "SPAC Ticker Symbol": "BRPA",
@@ -823,9 +795,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BRPAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BRPAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2017-11-20",
     "Estimated Completion Deadline Date": "2020-12-23",
@@ -834,7 +806,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "91.76%"
+    "Progress to Completion": "91.85%"
   },
   {
     "SPAC Ticker Symbol": "BSN",
@@ -850,9 +822,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "42",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BSNU&insttype=Fund",
+    "Est. Days Until Unit Separation": "41",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-11",
     "Estimated Completion Deadline Date": "2022-09-11",
@@ -861,7 +832,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.37%"
+    "Progress to Completion": "1.51%"
   },
   {
     "SPAC Ticker Symbol": "BTAQ",
@@ -877,9 +848,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "26",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=BTAQU&insttype=Fund",
+    "Est. Days Until Unit Separation": "25",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-26",
     "Estimated Completion Deadline Date": "2022-08-26",
@@ -888,7 +858,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "3.56%"
+    "Progress to Completion": "3.70%"
   },
   {
     "SPAC Ticker Symbol": "BYNO",
@@ -904,12 +874,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Jonas Olsson (Global controller, H&M)",
     "Underwriter(s)": "Keefe, Bruyette & Woods, Drexel Hamilton, I-Bankers",
     "SEC Filings": "SEC Filings",
@@ -931,9 +899,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "34",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CAPAU&insttype=Fund",
+    "Est. Days Until Unit Separation": "33",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-03",
     "Estimated Completion Deadline Date": "2022-03-04",
@@ -942,7 +909,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "3.29%"
+    "Progress to Completion": "3.47%"
   },
   {
     "SPAC Ticker Symbol": "CCAC",
@@ -958,9 +925,9 @@
     "Trust Value Per Share": "$10.07",
     "Discount/Premium to Trust Value per Share": "-2.25%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-11",
     "Estimated Completion Deadline Date": "2022-02-10",
@@ -969,7 +936,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "30.55%"
+    "Progress to Completion": "30.68%"
   },
   {
     "SPAC Ticker Symbol": "CCIV",
@@ -985,9 +952,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCIV.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCIV.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-30",
     "Estimated Completion Deadline Date": "2022-10-29",
@@ -996,7 +963,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.45%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "CCX",
@@ -1012,9 +979,9 @@
     "Trust Value Per Share": "$10.10",
     "Discount/Premium to Trust Value per Share": "6.39%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCX.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCX.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-06-26",
     "Estimated Completion Deadline Date": "2021-06-25",
@@ -1023,7 +990,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "62.05%"
+    "Progress to Completion": "62.19%"
   },
   {
     "SPAC Ticker Symbol": "CCXX",
@@ -1039,9 +1006,9 @@
     "Trust Value Per Share": "$10.04",
     "Discount/Premium to Trust Value per Share": "13.07%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCXX.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CCXX.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-14",
     "Estimated Completion Deadline Date": "2022-02-13",
@@ -1050,7 +1017,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Healthcare",
-    "Progress to Completion": "30.14%"
+    "Progress to Completion": "30.27%"
   },
   {
     "SPAC Ticker Symbol": "CFFA",
@@ -1066,9 +1033,9 @@
     "Trust Value Per Share": "$10.14",
     "Discount/Premium to Trust Value per Share": "2.18%",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CFFA.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CFFA.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-12-13",
     "Estimated Completion Deadline Date": "2020-12-17",
@@ -1077,7 +1044,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Asset Management",
-    "Progress to Completion": "88.16%"
+    "Progress to Completion": "88.30%"
   },
   {
     "SPAC Ticker Symbol": "CFII",
@@ -1093,9 +1060,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "27",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CFIIU&insttype=Fund",
+    "Est. Days Until Unit Separation": "26",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-27",
     "Estimated Completion Deadline Date": "2022-08-27",
@@ -1104,7 +1070,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "3.42%"
+    "Progress to Completion": "3.56%"
   },
   {
     "SPAC Ticker Symbol": "CGRO",
@@ -1120,9 +1086,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CGROU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CGRO.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-01",
     "Estimated Completion Deadline Date": "2022-05-01",
@@ -1131,7 +1097,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "19.59%"
+    "Progress to Completion": "19.73%"
   },
   {
     "SPAC Ticker Symbol": "CHAQ",
@@ -1147,9 +1113,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CHAQU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CHAQW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-04-24",
     "Estimated Completion Deadline Date": "2022-04-24",
@@ -1158,7 +1124,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.55%"
+    "Progress to Completion": "20.68%"
   },
   {
     "SPAC Ticker Symbol": "CHPM",
@@ -1174,9 +1140,9 @@
     "Trust Value Per Share": "$10.07",
     "Discount/Premium to Trust Value per Share": "0.18%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CHPM.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CHPM.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-21",
     "Estimated Completion Deadline Date": "2021-11-20",
@@ -1185,7 +1151,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "41.78%"
+    "Progress to Completion": "41.92%"
   },
   {
     "SPAC Ticker Symbol": "CIIC",
@@ -1201,9 +1167,9 @@
     "Trust Value Per Share": "$10.04",
     "Discount/Premium to Trust Value per Share": "0.13%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CIICU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CIIC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-12-13",
     "Estimated Completion Deadline Date": "2021-12-12",
@@ -1212,7 +1178,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "38.77%"
+    "Progress to Completion": "38.90%"
   },
   {
     "SPAC Ticker Symbol": "CLA",
@@ -1228,9 +1194,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "20",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CLAU&insttype=Fund",
+    "Est. Days Until Unit Separation": "19",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-20",
     "Estimated Completion Deadline Date": "2022-08-20",
@@ -1239,7 +1204,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.38%"
+    "Progress to Completion": "4.52%"
   },
   {
     "SPAC Ticker Symbol": "CLII",
@@ -1255,12 +1220,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "David Crane (Fmr CEO of IPR, NRG), Beth Comstock, (Fmr CMO/CCO of GE; Board Director, Nike), Mary Powell (Fmr CEO, GMP), Mimi Alemayehou (SVP, Mastercard)",
     "Underwriter(s)": "Citigroup, BofA Securities, Barclays",
     "SEC Filings": "SEC Filings",
@@ -1282,9 +1245,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "32",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CMLFU&insttype=Fund",
+    "Est. Days Until Unit Separation": "31",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-01",
     "Estimated Completion Deadline Date": "2022-09-01",
@@ -1293,7 +1255,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "2.74%"
+    "Progress to Completion": "2.88%"
   },
   {
     "SPAC Ticker Symbol": "CPAA",
@@ -1309,9 +1271,9 @@
     "Trust Value Per Share": "$10.10",
     "Discount/Premium to Trust Value per Share": "1.23%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CPAAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CPAA.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-07-17",
     "Estimated Completion Deadline Date": "2021-07-16",
@@ -1320,7 +1282,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "59.18%"
+    "Progress to Completion": "59.32%"
   },
   {
     "SPAC Ticker Symbol": "CPSR",
@@ -1336,9 +1298,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-1.40%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CPSRU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CPSRW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-02",
     "Estimated Completion Deadline Date": "2022-07-02",
@@ -1347,7 +1309,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "11.10%"
+    "Progress to Completion": "11.23%"
   },
   {
     "SPAC Ticker Symbol": "CRHC",
@@ -1363,9 +1325,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "39",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CRHC.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "38",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-08",
     "Estimated Completion Deadline Date": "2022-09-08",
@@ -1374,7 +1335,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.78%"
+    "Progress to Completion": "1.92%"
   },
   {
     "SPAC Ticker Symbol": "CRSA",
@@ -1390,9 +1351,9 @@
     "Trust Value Per Share": "$10.17",
     "Discount/Premium to Trust Value per Share": "-1.06%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CRSA.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=CRSA.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-03-08",
     "Estimated Completion Deadline Date": "2021-03-07",
@@ -1401,7 +1362,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Fitness",
-    "Progress to Completion": "77.12%"
+    "Progress to Completion": "77.26%"
   },
   {
     "SPAC Ticker Symbol": "DEH",
@@ -1417,9 +1378,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-2.10%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DEH.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DEH.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-15",
     "Estimated Completion Deadline Date": "2022-07-15",
@@ -1428,7 +1389,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "9.32%"
+    "Progress to Completion": "9.45%"
   },
   {
     "SPAC Ticker Symbol": "DFHT",
@@ -1444,9 +1405,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-1.00%",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFHT.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFHT.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-17",
     "Estimated Completion Deadline Date": "2022-07-17",
@@ -1455,7 +1416,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "9.04%"
+    "Progress to Completion": "9.18%"
   },
   {
     "SPAC Ticker Symbol": "DFNS",
@@ -1471,9 +1432,9 @@
     "Trust Value Per Share": "$10.03",
     "Discount/Premium to Trust Value per Share": "0.15%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFNSU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFNS.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-07",
     "Estimated Completion Deadline Date": "2021-11-06",
@@ -1482,7 +1443,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "43.70%"
+    "Progress to Completion": "43.84%"
   },
   {
     "SPAC Ticker Symbol": "DFPH",
@@ -1498,9 +1459,9 @@
     "Trust Value Per Share": "$10.01",
     "Discount/Premium to Trust Value per Share": "4.34%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFPH.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DFPH.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-03-11",
     "Estimated Completion Deadline Date": "2022-03-11",
@@ -1509,7 +1470,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "26.58%"
+    "Progress to Completion": "26.71%"
   },
   {
     "SPAC Ticker Symbol": "DGNR",
@@ -1525,9 +1486,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "13",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DGNRU&insttype=Fund",
+    "Est. Days Until Unit Separation": "12",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-13",
     "Estimated Completion Deadline Date": "2022-08-13",
@@ -1536,7 +1496,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "5.34%"
+    "Progress to Completion": "5.48%"
   },
   {
     "SPAC Ticker Symbol": "DIST",
@@ -1552,12 +1512,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "EarlyBirdCapital",
     "SEC Filings": "SEC Filings",
@@ -1579,9 +1537,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "13",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DMYDU&insttype=Fund",
+    "Est. Days Until Unit Separation": "12",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-13",
     "Estimated Completion Deadline Date": "2022-08-13",
@@ -1590,7 +1547,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "5.34%"
+    "Progress to Completion": "5.48%"
   },
   {
     "SPAC Ticker Symbol": "DMYT",
@@ -1606,9 +1563,9 @@
     "Trust Value Per Share": "$10.03",
     "Discount/Premium to Trust Value per Share": "35.62%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DMYT.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DMYT.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$2.10",
     "IPO Date": "2020-02-21",
     "Estimated Completion Deadline Date": "2022-02-20",
@@ -1617,7 +1574,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "www.dmytechnology.com/business-strategy",
     "Tags (SPAC or Target Industry/ Sector)": "Online Casino",
-    "Progress to Completion": "29.18%"
+    "Progress to Completion": "29.32%"
   },
   {
     "SPAC Ticker Symbol": "DPHC",
@@ -1633,9 +1590,9 @@
     "Trust Value Per Share": "$10.15",
     "Discount/Premium to Trust Value per Share": "209.21%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DPHCU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=DPHCW&insttype=Fund",
     "Warrant Intrinsic Value": "$19.90",
     "IPO Date": "2019-02-28",
     "Estimated Completion Deadline Date": "2021-02-27",
@@ -1644,7 +1601,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "E.V., Electric Vehicles, Automotive, Sustainability",
-    "Progress to Completion": "78.22%"
+    "Progress to Completion": "78.36%"
   },
   {
     "SPAC Ticker Symbol": "DUNE",
@@ -1660,12 +1617,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Carter Glatt (Former SVP, GTY Technology Holdings), Jeron Smith (Co-founder Unanimous Media -- with Stephen Curry)",
     "Underwriter(s)": "Cantor",
     "SEC Filings": "SEC Filings",
@@ -1687,12 +1642,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Senator E. Benjamin Nelson (Fmr CEO, NAIC; US Senator from Nebraska); Paul Britton Newhouse (Fmr Chairman, Guy Carpenter & Co)",
     "Underwriter(s)": "RBC Capital Markets, Cantor",
     "SEC Filings": "SEC Filings",
@@ -1714,12 +1667,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Matthew Rubel (Fmr CEO, Varsity Brands, Collective Brands, Cole Haan); Beth Kaplan (Fmr COO,\nRent the Runway)",
     "Underwriter(s)": "JP Morgan, Jefferies",
     "SEC Filings": "SEC Filings",
@@ -1741,9 +1692,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [$25, 1/4 W]; W: [1:1, $28.75]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "47",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ENPCU&insttype=Fund",
+    "Est. Days Until Unit Separation": "46",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-16",
     "Estimated Completion Deadline Date": "2022-09-16",
@@ -1752,7 +1702,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.68%"
+    "Progress to Completion": "0.82%"
   },
   {
     "SPAC Ticker Symbol": "EQD",
@@ -1768,9 +1718,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "47",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=EQD.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "46",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-16",
     "Estimated Completion Deadline Date": "2022-09-16",
@@ -1779,7 +1728,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.68%"
+    "Progress to Completion": "0.82%"
   },
   {
     "SPAC Ticker Symbol": "ERES",
@@ -1795,9 +1744,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ERESU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ERES.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-23",
     "Estimated Completion Deadline Date": "2022-07-23",
@@ -1806,7 +1755,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "8.22%"
+    "Progress to Completion": "8.36%"
   },
   {
     "SPAC Ticker Symbol": "ESSC",
@@ -1822,9 +1771,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ESSCU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ESSCW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-20",
     "Estimated Completion Deadline Date": "2021-11-19",
@@ -1833,7 +1782,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "33.50%"
+    "Progress to Completion": "33.66%"
   },
   {
     "SPAC Ticker Symbol": "ETAC",
@@ -1849,9 +1798,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ETACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-31",
     "Estimated Completion Deadline Date": "2022-07-31",
@@ -1860,7 +1808,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "7.12%"
+    "Progress to Completion": "7.26%"
   },
   {
     "SPAC Ticker Symbol": "EXPC",
@@ -1876,9 +1824,9 @@
     "Trust Value Per Share": "$10.08",
     "Discount/Premium to Trust Value per Share": "0.22%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=EXPCU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=EXPC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-09-13",
     "Estimated Completion Deadline Date": "2021-09-12",
@@ -1887,7 +1835,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "51.23%"
+    "Progress to Completion": "51.37%"
   },
   {
     "SPAC Ticker Symbol": "FAII",
@@ -1903,9 +1851,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "12",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FAIIU&insttype=Fund",
+    "Est. Days Until Unit Separation": "11",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-12",
     "Estimated Completion Deadline Date": "2022-08-12",
@@ -1914,7 +1861,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "5.48%"
+    "Progress to Completion": "5.62%"
   },
   {
     "SPAC Ticker Symbol": "FCAC",
@@ -1930,9 +1877,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "52",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FCAC.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "51",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-21",
     "Estimated Completion Deadline Date": "2022-09-21",
@@ -1941,7 +1887,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": ""
+    "Progress to Completion": "0.14%"
   },
   {
     "SPAC Ticker Symbol": "FEAC",
@@ -1957,9 +1903,9 @@
     "Trust Value Per Share": "$10.01",
     "Discount/Premium to Trust Value per Share": "26.01%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FEAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FEAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$1.11",
     "IPO Date": "2020-03-06",
     "Estimated Completion Deadline Date": "2022-03-06",
@@ -1968,7 +1914,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Mobile Gaming",
-    "Progress to Completion": "27.26%"
+    "Progress to Completion": "27.40%"
   },
   {
     "SPAC Ticker Symbol": "FGNA",
@@ -1984,12 +1930,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Joseph Moglia (Chairman and Former CEO, TD Ameritrade)",
     "Underwriter(s)": "Piper Sandler, Think Equity",
     "SEC Filings": "SEC Filings",
@@ -2011,9 +1955,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "18",
-    "Warrant Link": "Warrant Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FIIIU&insttype=Fund",
+    "Est. Days Until Unit Separation": "17",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FIII.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-18",
     "Estimated Completion Deadline Date": "2022-08-18",
@@ -2022,7 +1966,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.66%"
+    "Progress to Completion": "4.79%"
   },
   {
     "SPAC Ticker Symbol": "FMAC",
@@ -2038,12 +1982,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Richard Heitzmann (Founder, FirstMark), Jason Robbins (CEO, Draft Kings), Luis Ubinas (Fmr Pres, Ford Foundation; Director, Electronic Arts)",
     "Underwriter(s)": "Credit Suisse",
     "SEC Filings": "SEC Filings",
@@ -2065,9 +2007,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FMCIU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FMCIW&insttype=Fund",
     "Warrant Intrinsic Value": "$15.30",
     "IPO Date": "2018-08-03",
     "Estimated Completion Deadline Date": "2020-09-30",
@@ -2076,7 +2018,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Plant-based Foods",
-    "Progress to Completion": "98.86%"
+    "Progress to Completion": "98.99%"
   },
   {
     "SPAC Ticker Symbol": "FSDC",
@@ -2092,9 +2034,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [No units]; W: [No warrants]",
-    "Unit Link": "",
-    "Est. Days Until Unit Separation": "12",
-    "Warrant Link": "",
+    "Est. Days Until Unit Separation": "11",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-08-12",
     "Estimated Completion Deadline Date": "2022-08-12",
@@ -2103,7 +2043,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "5.48%"
+    "Progress to Completion": "5.62%"
   },
   {
     "SPAC Ticker Symbol": "FSRV",
@@ -2119,9 +2059,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FSRVU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FSRVW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-01",
     "Estimated Completion Deadline Date": "2021-10-31",
@@ -2130,7 +2070,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "44.52%"
+    "Progress to Completion": "44.66%"
   },
   {
     "SPAC Ticker Symbol": "FST",
@@ -2146,9 +2086,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "20",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FSTU&insttype=Fund",
+    "Est. Days Until Unit Separation": "19",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-20",
     "Estimated Completion Deadline Date": "2022-08-20",
@@ -2157,7 +2096,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.38%"
+    "Progress to Completion": "4.52%"
   },
   {
     "SPAC Ticker Symbol": "FTAC",
@@ -2173,9 +2112,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FTACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FTACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-11-16",
     "Estimated Completion Deadline Date": "2020-11-15",
@@ -2184,7 +2123,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "92.47%"
+    "Progress to Completion": "92.60%"
   },
   {
     "SPAC Ticker Symbol": "FTIV",
@@ -2200,12 +2139,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Betsy Cohen (Founder/Fmr CEO Bancorp), Daniel Cohen",
     "Underwriter(s)": "Cantor",
     "SEC Filings": "SEC Filings",
@@ -2227,9 +2164,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "25",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FTOCU&insttype=Fund",
+    "Est. Days Until Unit Separation": "24",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-25",
     "Estimated Completion Deadline Date": "2022-08-25",
@@ -2238,7 +2174,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "3.70%"
+    "Progress to Completion": "3.84%"
   },
   {
     "SPAC Ticker Symbol": "FUSE",
@@ -2254,9 +2190,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-1.50%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FUSEU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FUSE.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-26",
     "Estimated Completion Deadline Date": "2021-12-25",
@@ -2265,7 +2201,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "15.89%"
+    "Progress to Completion": "16.07%"
   },
   {
     "SPAC Ticker Symbol": "FVAC",
@@ -2281,9 +2217,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "44.98%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FVAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=FVAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$3.00",
     "IPO Date": "2020-04-30",
     "Estimated Completion Deadline Date": "2022-04-30",
@@ -2292,7 +2228,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Rare earth mining",
-    "Progress to Completion": "19.73%"
+    "Progress to Completion": "19.86%"
   },
   {
     "SPAC Ticker Symbol": "GCAC",
@@ -2308,12 +2244,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Prokopios Tsirigakis (CEO of Nautilus Energy & SevenSeas, $STLR, $NMAR, $SEA)",
     "Underwriter(s)": "Maxim",
     "SEC Filings": "SEC Filings",
@@ -2335,9 +2269,9 @@
     "Trust Value Per Share": "$10.02",
     "Discount/Premium to Trust Value per Share": "9.13%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GHIVU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GHIVW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-01-24",
     "Estimated Completion Deadline Date": "2022-01-23",
@@ -2346,7 +2280,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "33.01%"
+    "Progress to Completion": "33.15%"
   },
   {
     "SPAC Ticker Symbol": "GIK",
@@ -2362,9 +2296,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GIK.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GIK.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-14",
     "Estimated Completion Deadline Date": "2022-05-14",
@@ -2373,7 +2307,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "17.81%"
+    "Progress to Completion": "17.95%"
   },
   {
     "SPAC Ticker Symbol": "GIX",
@@ -2389,9 +2323,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/20)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GIX.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GIX.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-06-06",
     "Estimated Completion Deadline Date": "2021-03-05",
@@ -2400,7 +2334,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "74.05%"
+    "Progress to Completion": "74.21%"
   },
   {
     "SPAC Ticker Symbol": "GLEO",
@@ -2416,9 +2350,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GLEO.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GLEO.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-10-18",
     "Estimated Completion Deadline Date": "2021-07-17",
@@ -2427,7 +2361,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "53.07%"
+    "Progress to Completion": "53.23%"
   },
   {
     "SPAC Ticker Symbol": "GMHI",
@@ -2443,9 +2377,9 @@
     "Trust Value Per Share": "$10.19",
     "Discount/Premium to Trust Value per Share": "19.70%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GMHIU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GMHIW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.70",
     "IPO Date": "2019-02-01",
     "Estimated Completion Deadline Date": "2021-01-31",
@@ -2454,7 +2388,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Lidar, Autonomous Driving Tech, Automotive",
-    "Progress to Completion": "81.92%"
+    "Progress to Completion": "82.05%"
   },
   {
     "SPAC Ticker Symbol": "GNRS",
@@ -2470,9 +2404,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GNRSU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GNRSW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-11",
     "Estimated Completion Deadline Date": "2021-08-11",
@@ -2481,7 +2415,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "40.73%"
+    "Progress to Completion": "40.91%"
   },
   {
     "SPAC Ticker Symbol": "GOAC",
@@ -2497,9 +2431,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "5",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GOAC.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "4",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-05",
     "Estimated Completion Deadline Date": "2022-08-05",
@@ -2508,7 +2441,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.44%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "GRAF",
@@ -2524,9 +2457,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1.33:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRAF.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRAF.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$9.41",
     "IPO Date": "2018-10-16",
     "Estimated Completion Deadline Date": "2020-10-31",
@@ -2535,7 +2468,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Lidar, Autonomous Driving Tech, Automotive",
-    "Progress to Completion": "94.64%"
+    "Progress to Completion": "94.77%"
   },
   {
     "SPAC Ticker Symbol": "GRCY",
@@ -2551,9 +2484,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRCYU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRCY.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-23",
     "Estimated Completion Deadline Date": "2022-01-21",
@@ -2562,7 +2495,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "10.96%"
+    "Progress to Completion": "11.14%"
   },
   {
     "SPAC Ticker Symbol": "GRNV",
@@ -2578,9 +2511,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRNVU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRNVW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-19",
     "Estimated Completion Deadline Date": "2021-08-18",
@@ -2589,7 +2522,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "48.06%"
+    "Progress to Completion": "48.22%"
   },
   {
     "SPAC Ticker Symbol": "GRSV",
@@ -2605,9 +2538,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "5",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GRSV.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "4",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-05",
     "Estimated Completion Deadline Date": "2022-08-05",
@@ -2616,7 +2548,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.44%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "GSAH",
@@ -2632,9 +2564,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "7.00%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GSAH.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GSAH.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-30",
     "Estimated Completion Deadline Date": "2022-06-30",
@@ -2643,7 +2575,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "11.37%"
+    "Progress to Completion": "11.51%"
   },
   {
     "SPAC Ticker Symbol": "GWAC",
@@ -2659,12 +2591,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Fred Zeidman (Chairman, Gordian Group), Douglas Wurth (Former CEO of Alt Investments, JP Morgan)",
     "Underwriter(s)": "I-Bankers",
     "SEC Filings": "SEC Filings",
@@ -2686,9 +2616,9 @@
     "Trust Value Per Share": "$10.16",
     "Discount/Premium to Trust Value per Share": "3.78%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GXGXU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=GXGXW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-05-21",
     "Estimated Completion Deadline Date": "2021-05-20",
@@ -2697,7 +2627,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "66.99%"
+    "Progress to Completion": "67.12%"
   },
   {
     "SPAC Ticker Symbol": "HCAC",
@@ -2713,9 +2643,9 @@
     "Trust Value Per Share": "$10.29",
     "Discount/Premium to Trust Value per Share": "13.14%",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.14",
     "IPO Date": "2019-03-01",
     "Estimated Completion Deadline Date": "2020-12-31",
@@ -2724,7 +2654,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "E.V., Advanced Mobility, Automotive, Sustainability",
-    "Progress to Completion": "84.95%"
+    "Progress to Completion": "85.10%"
   },
   {
     "SPAC Ticker Symbol": "HCCH",
@@ -2740,9 +2670,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCCHU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCCHW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-07-02",
     "Estimated Completion Deadline Date": "2020-10-02",
@@ -2751,7 +2681,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Renewable Energy, Sustainability",
-    "Progress to Completion": "98.66%"
+    "Progress to Completion": "98.78%"
   },
   {
     "SPAC Ticker Symbol": "HCCO",
@@ -2767,9 +2697,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCCOU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HCCOW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-12-12",
     "Estimated Completion Deadline Date": "2021-12-11",
@@ -2778,7 +2708,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Healthcare, Telemedicine",
-    "Progress to Completion": "38.90%"
+    "Progress to Completion": "39.04%"
   },
   {
     "SPAC Ticker Symbol": "HEC",
@@ -2794,9 +2724,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-0.81%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HECU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HECW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-09",
     "Estimated Completion Deadline Date": "2022-06-09",
@@ -2805,7 +2735,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "14.25%"
+    "Progress to Completion": "14.38%"
   },
   {
     "SPAC Ticker Symbol": "HOLU",
@@ -2821,9 +2751,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "5",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HOLUU&insttype=Fund",
+    "Est. Days Until Unit Separation": "4",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-05",
     "Estimated Completion Deadline Date": "2022-08-05",
@@ -2832,7 +2761,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.44%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "HPX",
@@ -2848,9 +2777,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-1.50%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HPX.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HPX.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-16",
     "Estimated Completion Deadline Date": "2022-07-16",
@@ -2859,7 +2788,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "9.18%"
+    "Progress to Completion": "9.32%"
   },
   {
     "SPAC Ticker Symbol": "HSAQ",
@@ -2875,9 +2804,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [No units]; W: [No warrants]",
-    "Unit Link": "",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-08-04",
     "Estimated Completion Deadline Date": "2022-08-04",
@@ -2886,7 +2813,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.58%"
+    "Progress to Completion": "6.71%"
   },
   {
     "SPAC Ticker Symbol": "HYAC",
@@ -2902,9 +2829,9 @@
     "Trust Value Per Share": "$10.15",
     "Discount/Premium to Trust Value per Share": "-1.37%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HYACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HYACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-06-07",
     "Estimated Completion Deadline Date": "2021-06-06",
@@ -2913,7 +2840,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Retail",
-    "Progress to Completion": "64.66%"
+    "Progress to Completion": "64.79%"
   },
   {
     "SPAC Ticker Symbol": "HZAC",
@@ -2929,9 +2856,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "20",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=HZACU&insttype=Fund",
+    "Est. Days Until Unit Separation": "19",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-20",
     "Estimated Completion Deadline Date": "2022-08-20",
@@ -2940,7 +2866,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "4.38%"
+    "Progress to Completion": "4.52%"
   },
   {
     "SPAC Ticker Symbol": "IACA",
@@ -2956,12 +2882,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Jonathan Kolber (Fmr CEO, Koor Industries; Director,\nFiverr)",
     "Underwriter(s)": "Cowen",
     "SEC Filings": "SEC Filings",
@@ -2983,12 +2907,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Bradley Tusk (Co-founder Tusk Ventures; Co-founder/Chairman, Ivory Gaming Group)",
     "Underwriter(s)": "Cantor Fitzgerald",
     "SEC Filings": "SEC Filings",
@@ -3010,12 +2932,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Credit Suisse, Citigroup",
     "SEC Filings": "SEC Filings",
@@ -3037,9 +2957,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "33",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=INAQU&insttype=Fund",
+    "Est. Days Until Unit Separation": "32",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-02",
     "Estimated Completion Deadline Date": "2022-09-02",
@@ -3048,7 +2967,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "2.60%"
+    "Progress to Completion": "2.74%"
   },
   {
     "SPAC Ticker Symbol": "INSU",
@@ -3064,9 +2983,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=INSUU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=INSUW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.09",
     "IPO Date": "2019-03-20",
     "Estimated Completion Deadline Date": "2020-09-22",
@@ -3075,7 +2994,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Tech",
-    "Progress to Completion": "99.82%"
+    "Progress to Completion": "100.00%"
   },
   {
     "SPAC Ticker Symbol": "IPOB",
@@ -3091,9 +3010,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "53.50%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPOB.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPOB.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$3.85",
     "IPO Date": "2020-04-28",
     "Estimated Completion Deadline Date": "2022-04-28",
@@ -3102,7 +3021,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.00%"
+    "Progress to Completion": "20.14%"
   },
   {
     "SPAC Ticker Symbol": "IPOC",
@@ -3118,9 +3037,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "19.29%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPOC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPOC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.43",
     "IPO Date": "2020-04-22",
     "Estimated Completion Deadline Date": "2022-04-22",
@@ -3129,7 +3048,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.82%"
+    "Progress to Completion": "20.96%"
   },
   {
     "SPAC Ticker Symbol": "IPOD",
@@ -3145,9 +3064,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-04-22",
     "Estimated Completion Deadline Date": "2022-04-22",
@@ -3156,7 +3073,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.82%"
+    "Progress to Completion": "20.96%"
   },
   {
     "SPAC Ticker Symbol": "IPOE",
@@ -3172,9 +3089,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-04-22",
     "Estimated Completion Deadline Date": "2022-04-22",
@@ -3183,7 +3098,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.82%"
+    "Progress to Completion": "20.96%"
   },
   {
     "SPAC Ticker Symbol": "IPOF",
@@ -3199,9 +3114,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-04-22",
     "Estimated Completion Deadline Date": "2022-04-22",
@@ -3210,7 +3123,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.82%"
+    "Progress to Completion": "20.96%"
   },
   {
     "SPAC Ticker Symbol": "IPV",
@@ -3226,9 +3139,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPVU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=IPV.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-04",
     "Estimated Completion Deadline Date": "2021-11-03",
@@ -3237,7 +3150,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "36.01%"
+    "Progress to Completion": "36.16%"
   },
   {
     "SPAC Ticker Symbol": "ITAC",
@@ -3253,9 +3166,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "39",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ITACU&insttype=Fund",
+    "Est. Days Until Unit Separation": "38",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-08",
     "Estimated Completion Deadline Date": "2022-06-08",
@@ -3264,7 +3176,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "2.04%"
+    "Progress to Completion": "2.19%"
   },
   {
     "SPAC Ticker Symbol": "JAQC",
@@ -3280,12 +3192,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "James Hauslein (Former CEO, Sunglass Hut)",
     "Underwriter(s)": "Nomura, Brookline Capital Markets, Ladenburg Thalmann\n",
     "SEC Filings": "SEC Filings",
@@ -3307,12 +3217,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Thomas Jermoluk (CEO, Beyond Identity; Fmr GP, Kleiner Perkins), Samir Kaul (GP, Khosla Ventures)",
     "Underwriter(s)": "JP Morgan",
     "SEC Filings": "SEC Filings",
@@ -3334,9 +3242,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JFKU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JFKKW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-03-28",
     "Estimated Completion Deadline Date": "2020-09-30",
@@ -3345,7 +3253,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Tech",
-    "Progress to Completion": "98.37%"
+    "Progress to Completion": "98.55%"
   },
   {
     "SPAC Ticker Symbol": "JIH",
@@ -3361,9 +3269,9 @@
     "Trust Value Per Share": "$10.07",
     "Discount/Premium to Trust Value per Share": "1.86%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JIH.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JIH.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-08",
     "Estimated Completion Deadline Date": "2021-11-07",
@@ -3372,7 +3280,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "43.56%"
+    "Progress to Completion": "43.70%"
   },
   {
     "SPAC Ticker Symbol": "JWS",
@@ -3388,9 +3296,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JWS.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=JWS.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-14",
     "Estimated Completion Deadline Date": "2022-05-14",
@@ -3399,7 +3307,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "17.81%"
+    "Progress to Completion": "17.95%"
   },
   {
     "SPAC Ticker Symbol": "KBLM",
@@ -3415,9 +3323,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=KBLMU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=KBLMW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2017-06-01",
     "Estimated Completion Deadline Date": "2020-11-09",
@@ -3426,7 +3334,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Healthcare",
-    "Progress to Completion": "96.10%"
+    "Progress to Completion": "96.18%"
   },
   {
     "SPAC Ticker Symbol": "KCAC",
@@ -3442,9 +3350,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "83.50%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=KCAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=KCAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$6.85",
     "IPO Date": "2020-06-26",
     "Estimated Completion Deadline Date": "2022-06-26",
@@ -3453,7 +3361,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "E.V., Sustainability",
-    "Progress to Completion": "11.92%"
+    "Progress to Completion": "12.05%"
   },
   {
     "SPAC Ticker Symbol": "KSMT",
@@ -3469,9 +3377,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "5",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=KSMTU&insttype=Fund",
+    "Est. Days Until Unit Separation": "4",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-05",
     "Estimated Completion Deadline Date": "2022-08-05",
@@ -3480,7 +3387,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.44%"
+    "Progress to Completion": "6.58%"
   },
   {
     "SPAC Ticker Symbol": "LACQ",
@@ -3496,9 +3403,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LACQU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LACQW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2017-12-01",
     "Estimated Completion Deadline Date": "2020-12-01",
@@ -3507,7 +3414,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Gaming",
-    "Progress to Completion": "93.52%"
+    "Progress to Completion": "93.61%"
   },
   {
     "SPAC Ticker Symbol": "LATN",
@@ -3523,9 +3430,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LATNU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LATNW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-10-18",
     "Estimated Completion Deadline Date": "2021-04-17",
@@ -3534,7 +3441,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "61.92%"
+    "Progress to Completion": "62.10%"
   },
   {
     "SPAC Ticker Symbol": "LCA",
@@ -3550,9 +3457,9 @@
     "Trust Value Per Share": "$10.16",
     "Discount/Premium to Trust Value per Share": "78.39%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LCAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LCAHW&insttype=Fund",
     "Warrant Intrinsic Value": "$6.62",
     "IPO Date": "2019-05-07",
     "Estimated Completion Deadline Date": "2021-05-06",
@@ -3561,7 +3468,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Gaming",
-    "Progress to Completion": "68.90%"
+    "Progress to Completion": "69.04%"
   },
   {
     "SPAC Ticker Symbol": "LCAP",
@@ -3577,9 +3484,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "13",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LCAPU&insttype=Fund",
+    "Est. Days Until Unit Separation": "12",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-13",
     "Estimated Completion Deadline Date": "2022-02-11",
@@ -3588,7 +3494,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "7.12%"
+    "Progress to Completion": "7.31%"
   },
   {
     "SPAC Ticker Symbol": "LCY",
@@ -3604,12 +3510,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Tilman Fertitta (Houston Rockets owner, CEO of Landry's)",
     "Underwriter(s)": "Jefferies",
     "SEC Filings": "SEC Filings",
@@ -3631,9 +3535,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "42",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=&insttype=Fund",
+    "Est. Days Until Unit Separation": "41",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-11",
     "Estimated Completion Deadline Date": "2022-09-11",
@@ -3642,7 +3545,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.37%"
+    "Progress to Completion": "1.51%"
   },
   {
     "SPAC Ticker Symbol": "LFAC",
@@ -3658,9 +3561,9 @@
     "Trust Value Per Share": "$10.51",
     "Discount/Premium to Trust Value per Share": "0.63%",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LFACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LFACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-06-20",
     "Estimated Completion Deadline Date": "2020-12-22",
@@ -3669,7 +3572,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "89.96%"
+    "Progress to Completion": "90.07%"
   },
   {
     "SPAC Ticker Symbol": "LGC",
@@ -3685,9 +3588,9 @@
     "Trust Value Per Share": "$10.45",
     "Discount/Premium to Trust Value per Share": "0.20%",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LGC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LGC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2017-11-17",
     "Estimated Completion Deadline Date": "2020-11-20",
@@ -3696,7 +3599,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Marketing Services, China",
-    "Progress to Completion": "94.54%"
+    "Progress to Completion": "94.63%"
   },
   {
     "SPAC Ticker Symbol": "LGVW",
@@ -3712,9 +3615,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-1.61%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LGVWU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LGVW.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-21",
     "Estimated Completion Deadline Date": "2022-05-21",
@@ -3723,7 +3626,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "16.85%"
+    "Progress to Completion": "16.99%"
   },
   {
     "SPAC Ticker Symbol": "LIVK",
@@ -3739,9 +3642,9 @@
     "Trust Value Per Share": "$10.07",
     "Discount/Premium to Trust Value per Share": "-1.37%",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LIVKU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LIVKW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-12-10",
     "Estimated Completion Deadline Date": "2021-09-08",
@@ -3750,7 +3653,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "44.77%"
+    "Progress to Completion": "44.93%"
   },
   {
     "SPAC Ticker Symbol": "LOAC",
@@ -3766,9 +3669,9 @@
     "Trust Value Per Share": "$16.15",
     "Discount/Premium to Trust Value per Share": "-33.42%",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LOACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LOACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-08-28",
     "Estimated Completion Deadline Date": "2020-11-30",
@@ -3777,7 +3680,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "91.52%"
+    "Progress to Completion": "91.64%"
   },
   {
     "SPAC Ticker Symbol": "LOAK",
@@ -3793,9 +3696,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "-2.51%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LOAK.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LOAK.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-06",
     "Estimated Completion Deadline Date": "2022-05-06",
@@ -3804,7 +3707,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "18.90%"
+    "Progress to Completion": "19.04%"
   },
   {
     "SPAC Ticker Symbol": "LSAC",
@@ -3820,9 +3723,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LSACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=LSACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-03-06",
     "Estimated Completion Deadline Date": "2021-12-04",
@@ -3831,7 +3734,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "31.15%"
+    "Progress to Completion": "31.31%"
   },
   {
     "SPAC Ticker Symbol": "MAAC",
@@ -3847,12 +3750,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Citigroup, Jefferies",
     "SEC Filings": "SEC Filings",
@@ -3874,12 +3775,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Chardan",
     "SEC Filings": "SEC Filings",
@@ -3901,9 +3800,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/10 R]; W: [No warrants]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MCACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-06-05",
     "Estimated Completion Deadline Date": "2022-03-05",
@@ -3912,7 +3810,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "16.91%"
+    "Progress to Completion": "17.06%"
   },
   {
     "SPAC Ticker Symbol": "MCMJ",
@@ -3928,9 +3826,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MCMJW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-05",
     "Estimated Completion Deadline Date": "2021-11-04",
@@ -3939,7 +3837,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "43.97%"
+    "Progress to Completion": "44.11%"
   },
   {
     "SPAC Ticker Symbol": "MFAC",
@@ -3955,9 +3853,9 @@
     "Trust Value Per Share": "$10.38",
     "Discount/Premium to Trust Value per Share": "-0.29%",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MFAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MFAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-08-23",
     "Estimated Completion Deadline Date": "2020-11-30",
@@ -3966,7 +3864,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Fintech",
-    "Progress to Completion": "91.57%"
+    "Progress to Completion": "91.69%"
   },
   {
     "SPAC Ticker Symbol": "MLAC",
@@ -3982,9 +3880,9 @@
     "Trust Value Per Share": "$11.50",
     "Discount/Premium to Trust Value per Share": "-14.78%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MLACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MLAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-15",
     "Estimated Completion Deadline Date": "2022-01-13",
@@ -3993,7 +3891,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "12.42%"
+    "Progress to Completion": "12.60%"
   },
   {
     "SPAC Ticker Symbol": "MNCL",
@@ -4009,9 +3907,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MNCLU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=MNCLW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-02-06",
     "Estimated Completion Deadline Date": "2021-02-05",
@@ -4020,7 +3918,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Aerospace",
-    "Progress to Completion": "81.23%"
+    "Progress to Completion": "81.37%"
   },
   {
     "SPAC Ticker Symbol": "NBA",
@@ -4036,12 +3934,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Russell W. Galbut (MP, Crescent Heights; Chairman, Norwegian Cruise Line)",
     "Underwriter(s)": "Ladenburg Thalmann",
     "SEC Filings": "SEC Filings",
@@ -4063,9 +3959,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NBACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NBACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-14",
     "Estimated Completion Deadline Date": "2021-08-14",
@@ -4074,7 +3970,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "40.18%"
+    "Progress to Completion": "40.37%"
   },
   {
     "SPAC Ticker Symbol": "NFIN",
@@ -4090,9 +3986,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NFINU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NFINW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-07-31",
     "Estimated Completion Deadline Date": "2021-01-28",
@@ -4101,7 +3997,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Fintech",
-    "Progress to Completion": "76.35%"
+    "Progress to Completion": "76.53%"
   },
   {
     "SPAC Ticker Symbol": "NGA",
@@ -4117,9 +4013,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "17",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NGA.U&insttype=Fund",
+    "Est. Days Until Unit Separation": "16",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-17",
     "Estimated Completion Deadline Date": "2022-08-17",
@@ -4128,7 +4023,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "4.79%"
+    "Progress to Completion": "4.93%"
   },
   {
     "SPAC Ticker Symbol": "NGAC",
@@ -4144,12 +4039,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "George Mattson (Director, Delta Air Lines, Air France, Virgin Galactic), S. Sara Mathew (Fmr CEO, Dun & Bradstreet), Gregory Summe (Fmr CEO, Perkin Elmer), ",
     "Underwriter(s)": "Goldman Sachs, Credit Suisse",
     "SEC Filings": "SEC Filings",
@@ -4171,9 +4064,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NHICU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-31",
     "Estimated Completion Deadline Date": "2022-07-31",
@@ -4182,7 +4074,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "7.12%"
+    "Progress to Completion": "7.26%"
   },
   {
     "SPAC Ticker Symbol": "NMMC",
@@ -4198,9 +4090,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "49",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NMMCU&insttype=Fund",
+    "Est. Days Until Unit Separation": "48",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-18",
     "Estimated Completion Deadline Date": "2022-09-18",
@@ -4209,7 +4100,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.41%"
+    "Progress to Completion": "0.55%"
   },
   {
     "SPAC Ticker Symbol": "NOVS",
@@ -4225,9 +4116,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NOVSU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NOVSW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-15",
     "Estimated Completion Deadline Date": "2022-05-15",
@@ -4236,7 +4127,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "17.67%"
+    "Progress to Completion": "17.81%"
   },
   {
     "SPAC Ticker Symbol": "NPA",
@@ -4252,9 +4143,9 @@
     "Trust Value Per Share": "$10.10",
     "Discount/Premium to Trust Value per Share": "0.12%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NPAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NPAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-09-11",
     "Estimated Completion Deadline Date": "2021-03-11",
@@ -4263,7 +4154,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "68.68%"
+    "Progress to Completion": "68.86%"
   },
   {
     "SPAC Ticker Symbol": "NSH",
@@ -4279,9 +4170,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "40",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=NSHU&insttype=Fund",
+    "Est. Days Until Unit Separation": "39",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-09",
     "Estimated Completion Deadline Date": "2022-09-09",
@@ -4290,7 +4180,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.64%"
+    "Progress to Completion": "1.78%"
   },
   {
     "SPAC Ticker Symbol": "OAC",
@@ -4306,9 +4196,9 @@
     "Trust Value Per Share": "$10.17",
     "Discount/Premium to Trust Value per Share": "8.03%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=OAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=OAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-07-17",
     "Estimated Completion Deadline Date": "2021-07-16",
@@ -4317,7 +4207,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "59.18%"
+    "Progress to Completion": "59.32%"
   },
   {
     "SPAC Ticker Symbol": "OACB",
@@ -4333,9 +4223,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "47",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=OACB.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "46",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-16",
     "Estimated Completion Deadline Date": "2022-09-16",
@@ -4344,7 +4233,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.68%"
+    "Progress to Completion": "0.82%"
   },
   {
     "SPAC Ticker Symbol": "OPES",
@@ -4360,9 +4249,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=OPESU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=OPESW&insttype=Fund",
     "Warrant Intrinsic Value": "$2.86",
     "IPO Date": "2018-03-13",
     "Estimated Completion Deadline Date": "2020-11-15",
@@ -4371,7 +4260,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Restaurant",
-    "Progress to Completion": "94.38%"
+    "Progress to Completion": "94.48%"
   },
   {
     "SPAC Ticker Symbol": "ORSN",
@@ -4387,9 +4276,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ORSNU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ORSNW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-08-02",
     "Estimated Completion Deadline Date": "2020-11-06",
@@ -4398,7 +4287,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Co-working, Real Estate",
-    "Progress to Completion": "90.04%"
+    "Progress to Completion": "90.26%"
   },
   {
     "SPAC Ticker Symbol": "OTRA",
@@ -4414,12 +4303,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Maxim",
     "SEC Filings": "SEC Filings",
@@ -4441,12 +4328,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "TPG, Karl Peterson (Senior Partner of TPG; Managing Partner of TPG Pace Group), Kathleen Philips (Former COO, CFO, CLO of Zillow), Wendi Sturgis (CEO of Yext Europe), Greg Mrva (Former CFO, Stubhub)",
     "Underwriter(s)": "Deutsche Bank, J.P. Morgan, Barclays, TPG Capital BD",
     "SEC Filings": "SEC Filings",
@@ -4468,12 +4353,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "LifeSci Capital, Ladenburg Thalmann\n",
     "SEC Filings": "SEC Filings",
@@ -4495,9 +4378,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PANA.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-01",
     "Estimated Completion Deadline Date": "2022-07-01",
@@ -4506,7 +4388,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "11.23%"
+    "Progress to Completion": "11.37%"
   },
   {
     "SPAC Ticker Symbol": "PCPL",
@@ -4522,9 +4404,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "3.09%",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PCPL.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PCPL.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-04-24",
     "Estimated Completion Deadline Date": "2022-04-24",
@@ -4533,7 +4415,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "20.55%"
+    "Progress to Completion": "20.68%"
   },
   {
     "SPAC Ticker Symbol": "PDAC",
@@ -4549,12 +4431,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Alan Levande (Former Co-CEO of Covey Park Energy), Scott Prochazka (Former CEO of CenterPoint Energy)",
     "Underwriter(s)": "UBS, Barclays",
     "SEC Filings": "SEC Filings",
@@ -4576,9 +4456,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "41",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PIAIU&insttype=Fund",
+    "Est. Days Until Unit Separation": "40",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-10",
     "Estimated Completion Deadline Date": "2022-09-10",
@@ -4587,7 +4466,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.51%"
+    "Progress to Completion": "1.64%"
   },
   {
     "SPAC Ticker Symbol": "PIC",
@@ -4603,9 +4482,9 @@
     "Trust Value Per Share": "$10.10",
     "Discount/Premium to Trust Value per Share": "31.80%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PIC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PIC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$1.81",
     "IPO Date": "2019-07-11",
     "Estimated Completion Deadline Date": "2021-01-08",
@@ -4614,7 +4493,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "80.00%"
+    "Progress to Completion": "80.18%"
   },
   {
     "SPAC Ticker Symbol": "PMVC",
@@ -4630,9 +4509,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "52",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PMVCU&insttype=Fund",
+    "Est. Days Until Unit Separation": "51",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-21",
     "Estimated Completion Deadline Date": "2022-09-21",
@@ -4641,7 +4519,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": ""
+    "Progress to Completion": "0.14%"
   },
   {
     "SPAC Ticker Symbol": "PRPB",
@@ -4657,9 +4535,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PRPB.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PRPB.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-31",
     "Estimated Completion Deadline Date": "2022-07-31",
@@ -4668,7 +4546,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "7.12%"
+    "Progress to Completion": "7.26%"
   },
   {
     "SPAC Ticker Symbol": "PSAC",
@@ -4684,9 +4562,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PSACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PSAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-22",
     "Estimated Completion Deadline Date": "2022-04-21",
@@ -4695,7 +4573,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "9.55%"
+    "Progress to Completion": "9.71%"
   },
   {
     "SPAC Ticker Symbol": "PSTH",
@@ -4711,9 +4589,8 @@
     "Trust Value Per Share": "$20.00",
     "Discount/Premium to Trust Value per Share": "15.55%",
     "Unit & Warrant Details ": "U: [1/9 W]; W: [1:1, $23]",
-    "Unit Link": "",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PSTH.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.11",
     "IPO Date": "2020-07-22",
     "Estimated Completion Deadline Date": "2022-07-22",
@@ -4722,7 +4599,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "8.36%"
+    "Progress to Completion": "8.49%"
   },
   {
     "SPAC Ticker Symbol": "PTAC",
@@ -4738,9 +4615,9 @@
     "Trust Value Per Share": "$10.04",
     "Discount/Premium to Trust Value per Share": "8.25%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PTACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PTACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-21",
     "Estimated Completion Deadline Date": "2021-05-21",
@@ -4749,7 +4626,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "55.71%"
+    "Progress to Completion": "55.89%"
   },
   {
     "SPAC Ticker Symbol": "PTK",
@@ -4765,9 +4642,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "20",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=PTK.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "19",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-07-13",
     "Estimated Completion Deadline Date": "2022-01-11",
@@ -4776,7 +4652,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "12.79%"
+    "Progress to Completion": "12.97%"
   },
   {
     "SPAC Ticker Symbol": "QELL",
@@ -4792,12 +4668,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Barry Engle (Fmr President, GM North America; CEO, Agility Fuel Systems; CEO, Ford Canada), Kathleen Ligocki (Fmr CEO, Agility Fuel Solutions), Ryan Popple (Partner, R7 Partners; Director, Proterra)",
     "Underwriter(s)": "JP Morgan, Barclays",
     "SEC Filings": "SEC Filings",
@@ -4819,9 +4693,7 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [No units]; W: [No warrants]",
-    "Unit Link": "",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "",
     "Warrant Intrinsic Value": "",
     "IPO Date": "2020-07-08",
     "Estimated Completion Deadline Date": "2022-07-08",
@@ -4830,7 +4702,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "10.27%"
+    "Progress to Completion": "10.41%"
   },
   {
     "SPAC Ticker Symbol": "RBAC",
@@ -4846,9 +4718,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "12",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RBACU&insttype=Fund",
+    "Est. Days Until Unit Separation": "11",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-12",
     "Estimated Completion Deadline Date": "2022-08-12",
@@ -4857,7 +4728,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "5.48%"
+    "Progress to Completion": "5.62%"
   },
   {
     "SPAC Ticker Symbol": "RCHG",
@@ -4873,12 +4744,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Anthony Kenney (Fmr President, Speedway Division of Marathon), Mitchell Steenrod (former CFO, Pilot Flying J, Board of CarMax), John Bachman (Fmr COO of assurance practice, PwC)",
     "Underwriter(s)": "Raymond James, EarlyBirdCapital",
     "SEC Filings": "SEC Filings",
@@ -4900,9 +4769,9 @@
     "Trust Value Per Share": "$10.18",
     "Discount/Premium to Trust Value per Share": "5.20%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RMG.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RMG.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-02-07",
     "Estimated Completion Deadline Date": "2021-02-06",
@@ -4911,7 +4780,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "81.10%"
+    "Progress to Completion": "81.23%"
   },
   {
     "SPAC Ticker Symbol": "ROCH",
@@ -4927,9 +4796,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [3/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ROCHU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ROCHW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-05",
     "Estimated Completion Deadline Date": "2021-11-03",
@@ -4938,7 +4807,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "25.39%"
+    "Progress to Completion": "25.57%"
   },
   {
     "SPAC Ticker Symbol": "RPLA",
@@ -4954,9 +4823,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RPLA.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RPLA.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-04-03",
     "Estimated Completion Deadline Date": "2021-04-02",
@@ -4965,7 +4834,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "73.56%"
+    "Progress to Completion": "73.70%"
   },
   {
     "SPAC Ticker Symbol": "RTP",
@@ -4981,9 +4850,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "47",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=RTP.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "46",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-16",
     "Estimated Completion Deadline Date": "2022-09-16",
@@ -4992,7 +4860,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.68%"
+    "Progress to Completion": "0.82%"
   },
   {
     "SPAC Ticker Symbol": "SAII",
@@ -5008,9 +4876,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "45",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SAIIU&insttype=Fund",
+    "Est. Days Until Unit Separation": "44",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-14",
     "Estimated Completion Deadline Date": "2022-09-14",
@@ -5019,7 +4886,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.96%"
+    "Progress to Completion": "1.10%"
   },
   {
     "SPAC Ticker Symbol": "SAMA",
@@ -5035,9 +4902,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SAMAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SAMAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-12-10",
     "Estimated Completion Deadline Date": "2020-09-30",
@@ -5046,7 +4913,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Cannabis",
-    "Progress to Completion": "98.64%"
+    "Progress to Completion": "98.79%"
   },
   {
     "SPAC Ticker Symbol": "SAQN",
@@ -5062,9 +4929,9 @@
     "Trust Value Per Share": "$10.04",
     "Discount/Premium to Trust Value per Share": "-0.39%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SAQNU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SAQNW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-19",
     "Estimated Completion Deadline Date": "2021-05-19",
@@ -5073,7 +4940,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "56.07%"
+    "Progress to Completion": "56.26%"
   },
   {
     "SPAC Ticker Symbol": "SBE",
@@ -5089,9 +4956,9 @@
     "Trust Value Per Share": "$10.10",
     "Discount/Premium to Trust Value per Share": "36.51%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SBE.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SBE.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$2.29",
     "IPO Date": "2019-07-25",
     "Estimated Completion Deadline Date": "2021-07-24",
@@ -5100,7 +4967,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "58.08%"
+    "Progress to Completion": "58.22%"
   },
   {
     "SPAC Ticker Symbol": "SBG",
@@ -5116,9 +4983,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "46",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SBG.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "45",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-15",
     "Estimated Completion Deadline Date": "2022-09-15",
@@ -5127,7 +4993,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "0.82%"
+    "Progress to Completion": "0.96%"
   },
   {
     "SPAC Ticker Symbol": "SCPE",
@@ -5143,9 +5009,9 @@
     "Trust Value Per Share": "$10.12",
     "Discount/Premium to Trust Value per Share": "-0.07%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SCPEU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SCPE.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-07-11",
     "Estimated Completion Deadline Date": "2021-01-08",
@@ -5154,7 +5020,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "80.00%"
+    "Progress to Completion": "80.18%"
   },
   {
     "SPAC Ticker Symbol": "SCVX",
@@ -5170,9 +5036,9 @@
     "Trust Value Per Share": "$10.01",
     "Discount/Premium to Trust Value per Share": "1.48%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SCVXU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SCVX.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-01-24",
     "Estimated Completion Deadline Date": "2022-01-23",
@@ -5181,7 +5047,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "33.01%"
+    "Progress to Completion": "33.15%"
   },
   {
     "SPAC Ticker Symbol": "SEAH",
@@ -5197,12 +5063,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Eric Grubman (Former Exec VP Business Ops, NFL), John Collins (Fmr COO, NHL; Fmr CEO, Cleveland Browns)",
     "Underwriter(s)": "Goldman Sachs, PJT Partners",
     "SEC Filings": "SEC Filings",
@@ -5224,9 +5088,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SFTWU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SFTW.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-01",
     "Estimated Completion Deadline Date": "2021-10-31",
@@ -5235,7 +5099,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "44.52%"
+    "Progress to Completion": "44.66%"
   },
   {
     "SPAC Ticker Symbol": "SHLL",
@@ -5251,9 +5115,9 @@
     "Trust Value Per Share": "$10.16",
     "Discount/Premium to Trust Value per Share": "396.26%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SHLLU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SHLL.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$38.90",
     "IPO Date": "2019-02-27",
     "Estimated Completion Deadline Date": "2021-02-26",
@@ -5262,7 +5126,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "E.V., Automotive, Sustainability",
-    "Progress to Completion": "78.36%"
+    "Progress to Completion": "78.49%"
   },
   {
     "SPAC Ticker Symbol": "SMMC",
@@ -5278,9 +5142,9 @@
     "Trust Value Per Share": "$10.09",
     "Discount/Premium to Trust Value per Share": "4.71%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SMMCU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SMMCW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-06-19",
     "Estimated Completion Deadline Date": "2021-06-18",
@@ -5289,7 +5153,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "63.01%"
+    "Progress to Completion": "63.15%"
   },
   {
     "SPAC Ticker Symbol": "SNPR",
@@ -5305,9 +5169,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "42",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SNPR.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "41",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-11",
     "Estimated Completion Deadline Date": "2022-09-11",
@@ -5316,7 +5179,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "1.37%"
+    "Progress to Completion": "1.51%"
   },
   {
     "SPAC Ticker Symbol": "SOAC",
@@ -5332,9 +5195,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "2.99%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SOAC.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SOAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-06",
     "Estimated Completion Deadline Date": "2021-11-04",
@@ -5343,7 +5206,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "greenspac.com",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "25.21%"
+    "Progress to Completion": "25.39%"
   },
   {
     "SPAC Ticker Symbol": "SPAQ",
@@ -5359,9 +5222,9 @@
     "Trust Value Per Share": "$10.32",
     "Discount/Premium to Trust Value per Share": "59.23%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SPAQ.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SPAQ.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$4.93",
     "IPO Date": "2018-08-09",
     "Estimated Completion Deadline Date": "2021-02-14",
@@ -5370,7 +5233,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "E.V., Automotive, Sustainability",
-    "Progress to Completion": "84.13%"
+    "Progress to Completion": "84.24%"
   },
   {
     "SPAC Ticker Symbol": "SRAC",
@@ -5386,9 +5249,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SRACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SRACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-11-08",
     "Estimated Completion Deadline Date": "2021-05-08",
@@ -5397,7 +5260,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "58.08%"
+    "Progress to Completion": "58.26%"
   },
   {
     "SPAC Ticker Symbol": "SSPK",
@@ -5413,9 +5276,9 @@
     "Trust Value Per Share": "$10.16",
     "Discount/Premium to Trust Value per Share": "-0.59%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SSPKU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SSPKW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-08-07",
     "Estimated Completion Deadline Date": "2021-02-04",
@@ -5424,7 +5287,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "75.07%"
+    "Progress to Completion": "75.25%"
   },
   {
     "SPAC Ticker Symbol": "STPK",
@@ -5440,9 +5303,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "17",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=STPKU&insttype=Fund",
+    "Est. Days Until Unit Separation": "16",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-17",
     "Estimated Completion Deadline Date": "2022-08-17",
@@ -5451,7 +5313,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "4.79%"
+    "Progress to Completion": "4.93%"
   },
   {
     "SPAC Ticker Symbol": "STWO",
@@ -5467,9 +5329,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "48",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=STWO.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "47",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-17",
     "Estimated Completion Deadline Date": "2022-09-17",
@@ -5478,7 +5339,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Sustainability",
-    "Progress to Completion": "0.55%"
+    "Progress to Completion": "0.68%"
   },
   {
     "SPAC Ticker Symbol": "SVAC",
@@ -5494,9 +5355,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/6 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "41",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=SVAC.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "40",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-10",
     "Estimated Completion Deadline Date": "2022-09-10",
@@ -5505,7 +5365,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.51%"
+    "Progress to Completion": "1.64%"
   },
   {
     "SPAC Ticker Symbol": "TDAC",
@@ -5521,9 +5381,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TDACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TDACW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-05-29",
     "Estimated Completion Deadline Date": "2020-12-01",
@@ -5532,7 +5392,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "92.26%"
+    "Progress to Completion": "92.37%"
   },
   {
     "SPAC Ticker Symbol": "THBR",
@@ -5548,9 +5408,9 @@
     "Trust Value Per Share": "$10.13",
     "Discount/Premium to Trust Value per Share": "1.68%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THBRU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THBRW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-08-08",
     "Estimated Completion Deadline Date": "2021-08-07",
@@ -5559,7 +5419,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "56.16%"
+    "Progress to Completion": "56.30%"
   },
   {
     "SPAC Ticker Symbol": "THCA",
@@ -5575,9 +5435,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THCAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THCAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-07-11",
     "Estimated Completion Deadline Date": "2021-04-09",
@@ -5586,7 +5446,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "68.57%"
+    "Progress to Completion": "68.73%"
   },
   {
     "SPAC Ticker Symbol": "THCB",
@@ -5602,9 +5462,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THCBU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=THCBW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-03-05",
     "Estimated Completion Deadline Date": "2020-12-02",
@@ -5613,7 +5473,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "88.61%"
+    "Progress to Completion": "88.77%"
   },
   {
     "SPAC Ticker Symbol": "TOTA",
@@ -5629,9 +5489,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TOTAU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TOTAW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-08-01",
     "Estimated Completion Deadline Date": "2020-11-06",
@@ -5640,7 +5500,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "94.44%"
+    "Progress to Completion": "94.57%"
   },
   {
     "SPAC Ticker Symbol": "TPGY",
@@ -5656,12 +5516,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/5 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "TPG, Karl Peterson (Senior Partner of TPG; Managing Partner of TPG Pace Group)",
     "Underwriter(s)": "Deutsche Bank, J.P. Morgan, Barclays, TPG Capital BD",
     "SEC Filings": "SEC Filings",
@@ -5683,9 +5541,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "2.60%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TREB.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TREB.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-06-17",
     "Estimated Completion Deadline Date": "2022-06-17",
@@ -5694,7 +5552,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "13.15%"
+    "Progress to Completion": "13.29%"
   },
   {
     "SPAC Ticker Symbol": "TRNE",
@@ -5710,9 +5568,9 @@
     "Trust Value Per Share": "$10.17",
     "Discount/Premium to Trust Value per Share": "13.05%",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TRNE.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TRNE.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2019-03-14",
     "Estimated Completion Deadline Date": "2021-03-13",
@@ -5721,7 +5579,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "Manufacturing, Metal 3D Printing Tech, Sustainability",
-    "Progress to Completion": "76.30%"
+    "Progress to Completion": "76.44%"
   },
   {
     "SPAC Ticker Symbol": "TWCT",
@@ -5737,9 +5595,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "42",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TWCTU&insttype=Fund",
+    "Est. Days Until Unit Separation": "41",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-11",
     "Estimated Completion Deadline Date": "2022-09-11",
@@ -5748,7 +5605,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "1.37%"
+    "Progress to Completion": "1.51%"
   },
   {
     "SPAC Ticker Symbol": "TWND",
@@ -5764,9 +5621,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "35",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TWND.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "34",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-09-04",
     "Estimated Completion Deadline Date": "2022-09-04",
@@ -5775,7 +5631,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "2.33%"
+    "Progress to Completion": "2.47%"
   },
   {
     "SPAC Ticker Symbol": "TZAC",
@@ -5791,9 +5647,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TZACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=TZAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2018-08-20",
     "Estimated Completion Deadline Date": "2020-09-28",
@@ -5802,7 +5658,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "Pharmaceuticals",
-    "Progress to Completion": "99.09%"
+    "Progress to Completion": "99.22%"
   },
   {
     "SPAC Ticker Symbol": "UTXO",
@@ -5818,12 +5674,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Univest",
     "SEC Filings": "SEC Filings",
@@ -5845,12 +5699,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Deutsche Bank, BofA Securities",
     "SEC Filings": "SEC Filings",
@@ -5872,12 +5724,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Josh Bayliss (CEO, Virgin Group), Evan Lovell (CIO, Virgin Group), Teresa Briggs (Director of Snowflake, Docusign, ServiceNow, JAND/Warby Parker)",
     "Underwriter(s)": "Credit Suisse",
     "SEC Filings": "SEC Filings",
@@ -5899,12 +5749,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "",
     "Underwriter(s)": "Jefferies",
     "SEC Filings": "SEC Filings",
@@ -5926,9 +5774,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=VMACU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=VMAC.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-07",
     "Estimated Completion Deadline Date": "2022-05-07",
@@ -5937,7 +5785,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "7.05%"
+    "Progress to Completion": "7.20%"
   },
   {
     "SPAC Ticker Symbol": "VSPR",
@@ -5953,12 +5801,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Brenton Saunders (Fmr CEO, Allergan; Fmr CEO, Bausch + Lomb), Michael Capellas (Fmr CEO, First Data; Fmr CEO, Compaq; Board Director, Cisco), Barry Sternlicht (CEO, Starwood Capital)",
     "Underwriter(s)": "Goldman Sachs, JP Morgan",
     "SEC Filings": "SEC Filings",
@@ -5980,12 +5826,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "John Hering (Co-founder, Lookout), Alexander Tamas (Founder, Vy Capital)",
     "Underwriter(s)": "Morgan Stanley, Deutsche Bank",
     "SEC Filings": "SEC Filings",
@@ -6007,9 +5851,9 @@
     "Trust Value Per Share": "$10.00",
     "Discount/Premium to Trust Value per Share": "4.59%",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=WPF.UT&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=WPF.WT&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-05-27",
     "Estimated Completion Deadline Date": "2022-05-27",
@@ -6018,7 +5862,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "16.03%"
+    "Progress to Completion": "16.16%"
   },
   {
     "SPAC Ticker Symbol": "XXXX",
@@ -6034,12 +5878,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1 W, 1 R (1/10 sh)]; W: [2:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Yongsheng Liu (Wealthbridge Acquisition: combination with Scienjoy)",
     "Underwriter(s)": "Maxim",
     "SEC Filings": "SEC Filings",
@@ -6061,12 +5903,10 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/4 W]; W: [1:1, $11.5]",
-    "Unit Link": " ",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": " ",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "",
-    "Estimated Completion Deadline Date": "2022-11-20",
+    "Estimated Completion Deadline Date": "2022-11-21",
     "Prominent Leadership / Directors / Serial SPAC'ers": "Brad Gerstner (Founder, Altimeter: invested in Facebook, Uber, AirBnB, ByteDance, Twilio, Unity, Snowflake)",
     "Underwriter(s)": "Citigroup, Goldman Sachs, Morgan Stanley",
     "SEC Filings": "SEC Filings",
@@ -6088,9 +5928,8 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/3 W]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
-    "Est. Days Until Unit Separation": "4",
-    "Warrant Link": " ",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=YAC.UT&insttype=Fund",
+    "Est. Days Until Unit Separation": "3",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-08-04",
     "Estimated Completion Deadline Date": "2022-08-04",
@@ -6099,7 +5938,7 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "SPAC Website",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "6.58%"
+    "Progress to Completion": "6.71%"
   },
   {
     "SPAC Ticker Symbol": "ZGYH",
@@ -6115,9 +5954,9 @@
     "Trust Value Per Share": "",
     "Discount/Premium to Trust Value per Share": "",
     "Unit & Warrant Details ": "U: [1/2 W, 1 R (1/10 sh)]; W: [1:1, $11.5]",
-    "Unit Link": "Unit Link",
+    "Unit Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ZGYHU&insttype=Fund",
     "Est. Days Until Unit Separation": "",
-    "Warrant Link": "Warrant Link",
+    "Warrant Link": "https://bigcharts.marketwatch.com/advchart/frames/frames.asp?symb=ZGYHW&insttype=Fund",
     "Warrant Intrinsic Value": "$0.00",
     "IPO Date": "2020-02-13",
     "Estimated Completion Deadline Date": "2021-11-12",
@@ -6126,6 +5965,6 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Sector)": "",
-    "Progress to Completion": "34.60%"
+    "Progress to Completion": "34.76%"
   }
 ]
