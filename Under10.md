@@ -1,67 +1,65 @@
-Name                                         | Status               | SPAC Ticker Symbol | Common Price 
--------------------------------------------- | -------------------- | ------------------ | -------------
-Social Capital Hedosophia Holdings Corp. III | Definitive Agreement | IPOC               | $10.00       
-Pivotal Investment Corporation II            | Definitive Agreement | PIC                | $10.00       
-Mountain Crest Acquisition Corp              | Definitive Agreement | MCAC               | $10.00       
-ION Acquisition Corp 1 Ltd.                  | Searching            | IACA               | $10.00       
-GS Acquisition Holdings II                   | Searching            | GSAH               | $10.00       
-Greenvision Acquisition Corp                 | Definitive Agreement | GRNV               | $10.00       
-Foley Trasimene Acquisition Corp             | Searching            | WPF                | $10.00       
-Haymaker Acquisition Corp. II                | Definitive Agreement | HYAC               | $10.01       
-5:01 Acquisition Corp                        | Searching            | FVAM               | $10.02       
-B Riley Principal Merger II Corp             | Definitive Agreement | BMRG               | $10.02       
-Churchill Capital Corp II                    | Definitive Agreement | CCX                | $10.02       
-Crescent Acquisition Corp                    | Searching            | CRSA               | $10.02       
-Juniper Industrial Holdings Inc              | Searching            | JIH                | $10.03       
-Osprey Technology Acquisition Corp           | Searching            | SFTW               | $10.04       
-SC Health Corp                               | Searching            | SCPE               | $10.04       
-Healthcare Merger Corp.                      | Definitive Agreement | HCCO               | $10.04       
-Gores Metropoulos, Inc                       | Definitive Agreement | GMHI               | $10.05       
-CC Neuberger Principal Holdings I            | Definitive Agreement | PCPL               | $10.07       
-Oaktree Acquisition Corp                     | Definitive Agreement | OAC                | $10.08       
-DFP Healthcare Acquisitions Corp             | Searching            | DFPH               | $10.08       
-Silver Spike Acquisition Corp                | Searching            | SSPK               | $10.08       
-RedBall Acquisition Corp.                    | Searching            | RBAC               | $10.09       
-GigCapital2, Inc                             | LOI                  | GIX                | $10.09       
-BCTG Acquisition Corp                        | Searching            | BCTG               | $10.10       
-Thunder Bridge Acquisition II                | Searching            | THBR               | $10.10       
-New Providence Acquisition Corp              | Searching            | NPA                | $10.11       
-Replay Acquisition Corp                      | Definitive Agreement | RPLA               | $10.12       
-CIIG Merger Corp                             | Searching            | CIIC               | $10.14       
-Schultze Special Purpose Acquisition Corp    | Definitive Agreement | SAMA               | $10.15       
-Stable Road Acquisition Corp                 | Definitive Agreement | SRAC               | $10.15       
-RMG Acquisition Corp                         | Definitive Agreement | RMG                | $10.15       
-one                                          | Searching            | AONE               | $10.17       
-Acamar Partners Acquisition Corp             | Definitive Agreement | ACAM               | $10.17       
-Tuscan Holdings Corp                         | Searching            | THCB               | $10.19       
-Orisun Acquisition Corp                      | Definitive Agreement | ORSN               | $10.20       
-Monocle Acquisition Corp                     | Definitive Agreement | MNCL               | $10.24       
-Deerfield Healthcare Technology Acquisitions | Searching            | DFHT               | $10.25       
-Andina Acquisition Corp III                  | LOI                  | ANDA               | $10.25       
-Apex Technology Acquisition Corp             | Searching            | APXT               | $10.25       
-AMCI Acquisition Corp                        | Definitive Agreement | AMCI               | $10.26       
-Helix Acquisition Corp                       | Searching            | HLXA               | $10.26       
-Agba Acquisition Ltd                         | Searching            | AGBA               | $10.28       
-Panacea Acquisition                          | Definitive Agreement | PANA               | $10.28       
-Hennessy Capital Acquisition Corp IV         | Definitive Agreement | HCAC               | $10.31       
-Megalith Financial Acquisition Corp          | Definitive Agreement | MFAC               | $10.32       
-dMY Technology Group, Inc. II                | Definitive Agreement | DMYD               | $10.33       
-GX Acquisition Corp                          | Searching            | GXGX               | $10.33       
-FS Development Corp.                         | Definitive Agreement | FSDC               | $10.35       
-BCLS Acquisition Corp.                       | Searching            | BLSA               | $10.35       
-CF Finance Acquisition Corp                  | Definitive Agreement | CFFA               | $10.35       
-Netfin Acquisition Corp                      | Definitive Agreement | NFIN               | $10.40       
-Trine Acquisition Corp                       | Definitive Agreement | TRNE               | $10.40       
-PropTech Acquisition Corp                    | Definitive Agreement | PTAC               | $10.40       
-Legacy Acquisition Corp                      | Definitive Agreement | LGC                | $10.44       
-Leisure Acquisition Corp                     | Searching            | LACQ               | $10.50       
-ARYA Sciences Acquisition Corp III           | Searching            | ARYA               | $10.50       
-LF Capital Acquisition Corp                  | Definitive Agreement | LFAC               | $10.51       
-Opes Acquisition Corp                        | Definitive Agreement | OPES               | $10.65       
-Longevity Acquisition Corp.
-                 | Searching            | LOAC               | $10.68       
-Live Oak Acquisition Corp.                   | Definitive Agreement | LOAK               | $10.75       
-Trident Acquisitions Corp                    | Searching            | TDAC               | $10.80       
-Big Rock Partners Acquisition Corp           | Searching            | BRPA               | $10.80       
-Alberton Acquisition Corp                    | Definitive Agreement | ALAC               | $10.85       
-Tottenham Acquisition I                      | Definitive Agreement | TOTA               | $10.85       
+Status               | Name                                         | SPAC Ticker Symbol | Common Price 
+-------------------- | -------------------------------------------- | ------------------ | -------------
+Searching            | ION Acquisition Corp 1 Ltd.                  | IACA               | $10.00       
+Definitive Agreement | B Riley Principal Merger II Corp             | BMRG               | $10.00       
+Searching            | Osprey Technology Acquisition Corp           | SFTW               | $10.01       
+Definitive Agreement | Mountain Crest Acquisition Corp              | MCAC               | $10.01       
+Definitive Agreement | Haymaker Acquisition Corp. II                | HYAC               | $10.01       
+Searching            | Crescent Acquisition Corp                    | CRSA               | $10.02       
+Definitive Agreement | Gores Metropoulos, Inc                       | GMHI               | $10.03       
+Definitive Agreement | Pivotal Investment Corporation II            | PIC                | $10.03       
+Definitive Agreement | Healthcare Merger Corp.                      | HCCO               | $10.04       
+LOI                  | Andina Acquisition Corp III                  | ANDA               | $10.04       
+Searching            | SC Health Corp                               | SCPE               | $10.04       
+Searching            | Juniper Industrial Holdings Inc              | JIH                | $10.05       
+Searching            | Jaws Acquisition Corp                        | JWS                | $10.05       
+Searching            | RedBall Acquisition Corp.                    | RBAC               | $10.06       
+Definitive Agreement | CC Neuberger Principal Holdings I            | PCPL               | $10.06       
+Searching            | 5:01 Acquisition Corp                        | FVAM               | $10.07       
+LOI                  | GigCapital2, Inc                             | GIX                | $10.07       
+Searching            | DFP Healthcare Acquisitions Corp             | DFPH               | $10.08       
+Definitive Agreement | RMG Acquisition Corp                         | RMG                | $10.09       
+Definitive Agreement | Replay Acquisition Corp                      | RPLA               | $10.09       
+Definitive Agreement | Orisun Acquisition Corp                      | ORSN               | $10.10       
+Searching            | New Providence Acquisition Corp              | NPA                | $10.11       
+Searching            | Thunder Bridge Acquisition II                | THBR               | $10.12       
+Definitive Agreement | Stable Road Acquisition Corp                 | SRAC               | $10.13       
+Searching            | Silver Spike Acquisition Corp                | SSPK               | $10.13       
+Definitive Agreement | Acamar Partners Acquisition Corp             | ACAM               | $10.13       
+Searching            | CIIG Merger Corp                             | CIIC               | $10.13       
+Searching            | one                                          | AONE               | $10.15       
+Definitive Agreement | Schultze Special Purpose Acquisition Corp    | SAMA               | $10.15       
+Searching            | BCTG Acquisition Corp                        | BCTG               | $10.15       
+Definitive Agreement | FS Development Corp.                         | FSDC               | $10.17       
+Searching            | Tuscan Holdings Corp                         | THCB               | $10.17       
+Definitive Agreement | PropTech Acquisition Corp                    | PTAC               | $10.20       
+Definitive Agreement | Hennessy Capital Acquisition Corp IV         | HCAC               | $10.23       
+Definitive Agreement | Monocle Acquisition Corp                     | MNCL               | $10.23       
+Searching            | GX Acquisition Corp                          | GXGX               | $10.24       
+Searching            | Apex Technology Acquisition Corp             | APXT               | $10.24       
+Definitive Agreement | Panacea Acquisition                          | PANA               | $10.25       
+Definitive Agreement | AMCI Acquisition Corp                        | AMCI               | $10.25       
+Searching            | Helix Acquisition Corp                       | HLXA               | $10.26       
+Definitive Agreement | dMY Technology Group, Inc. II                | DMYD               | $10.26       
+Definitive Agreement | Trine Acquisition Corp                       | TRNE               | $10.28       
+Searching            | Agba Acquisition Ltd                         | AGBA               | $10.28       
+Searching            | Deerfield Healthcare Technology Acquisitions | DFHT               | $10.30       
+Definitive Agreement | Megalith Financial Acquisition Corp          | MFAC               | $10.30       
+Searching            | BCLS Acquisition Corp.                       | BLSA               | $10.35       
+Definitive Agreement | CF Finance Acquisition Corp                  | CFFA               | $10.38       
+Definitive Agreement | Netfin Acquisition Corp                      | NFIN               | $10.41       
+Definitive Agreement | Legacy Acquisition Corp                      | LGC                | $10.44       
+Searching            | ARYA Sciences Acquisition Corp III           | ARYA               | $10.50       
+Searching            | Leisure Acquisition Corp                     | LACQ               | $10.50       
+Definitive Agreement | LF Capital Acquisition Corp                  | LFAC               | $10.51       
+Definitive Agreement | Live Oak Acquisition Corp.                   | LOAK               | $10.57       
+Definitive Agreement | Opes Acquisition Corp                        | OPES               | $10.66       
+Searching            | Longevity Acquisition Corp.
+                 | LOAC               | $10.71       
+Definitive Agreement | HL Acquisitions Corp                         | HCCH               | $10.76       
+Definitive Agreement | Alberton Acquisition Corp                    | ALAC               | $10.80       
+Searching            | Trident Acquisitions Corp                    | TDAC               | $10.80       
+Searching            | Big Rock Partners Acquisition Corp           | BRPA               | $10.80       
+Definitive Agreement | Tenzing Acquisition Corp                     | TZAC               | $10.81       
+Definitive Agreement | Tottenham Acquisition I                      | TOTA               | $10.85       
+Definitive Agreement | South Mountain Merger Corp                   | SMMC               | $10.90       
