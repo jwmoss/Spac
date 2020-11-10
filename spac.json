@@ -1,6 +1,6 @@
 [
   {
-    "SPAC Ticker Symbol": "AACQ",
+    "SPAC Ticker": "AACQ",
     "Name": "Artius Acquisition",
     "Status": "Searching",
     "Target Focus": "Tech",
@@ -27,7 +27,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACAC",
+    "SPAC Ticker": "ACAC",
     "Name": "Acies Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Live events, Entertainment, Gaming, Hospitality, Sports, Casino",
@@ -53,7 +53,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACAM",
+    "SPAC Ticker": "ACAM",
     "Name": "Acamar Partners Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Consumer and Retail",
@@ -80,7 +80,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACEV",
+    "SPAC Ticker": "ACEV",
     "Name": "ACE Convergence Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Tech",
@@ -107,7 +107,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACIC",
+    "SPAC Ticker": "ACIC",
     "Name": "Atlas Crest Investment Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -133,7 +133,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACND",
+    "SPAC Ticker": "ACND",
     "Name": "Ascendant Digital Acquisition",
     "Status": "Searching",
     "Target Focus": "Digital Media, Entertainment",
@@ -160,7 +160,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ACTC",
+    "SPAC Ticker": "ACTC",
     "Name": "ArcLight Clean Transition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Sustainable Energy, Renewable Resources",
@@ -186,7 +186,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ADOC",
+    "SPAC Ticker": "ADOC",
     "Name": "Edoc Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare, North America & Asia-Pacific",
@@ -212,7 +212,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AGBA",
+    "SPAC Ticker": "AGBA",
     "Name": "Agba Acquisition Ltd",
     "Status": "Searching",
     "Target Focus": "China",
@@ -239,7 +239,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AGCU",
+    "SPAC Ticker": "AGCU",
     "Name": "Altimeter Growth Corp\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -265,7 +265,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AHAC",
+    "SPAC Ticker": "AHAC",
     "Name": "Alpha Healthcare Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare",
@@ -291,7 +291,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AJAX",
+    "SPAC Ticker": "AJAX",
     "Name": "Ajax I\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Software, Fintech, Consumer",
@@ -317,7 +317,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AKIC",
+    "SPAC Ticker": "AKIC",
     "Name": "Sports Ventures Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Sports, media & entertainment (traditional & emerging sports, fillm & television production/ infrastructure)",
@@ -343,7 +343,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ALAC",
+    "SPAC Ticker": "ALAC",
     "Name": "Alberton Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -370,7 +370,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ALTU",
+    "SPAC Ticker": "ALTU",
     "Name": "Altitude Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Travel, Travel Tech",
@@ -390,13 +390,13 @@
     "SEC Filings": "SEC Filings",
     "SPAC Website": "",
     "Tags (SPAC or Target Industry/ Other Tags)": ", ",
-    "% Time to Deadline": "",
+    "% Time to Deadline": " ",
     "Stage % Through-Hide": "0.00%",
     "Stage Trust Value Per Share-Hide": "",
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ALUS",
+    "SPAC Ticker": "ALUS",
     "Name": "Alussa Energy Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Oil and Gas",
@@ -423,7 +423,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AMCI",
+    "SPAC Ticker": "AMCI",
     "Name": "AMCI Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Natural Resources, Mining",
@@ -450,7 +450,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AMHC",
+    "SPAC Ticker": "AMHC",
     "Name": "Amplitude Healthcare Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -477,7 +477,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ANDA",
+    "SPAC Ticker": "ANDA",
     "Name": "Andina Acquisition Corp III",
     "Status": "Searching",
     "Target Focus": "Americas",
@@ -504,7 +504,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AONE",
+    "SPAC Ticker": "AONE",
     "Name": "one",
     "Status": "Searching",
     "Target Focus": "Tech",
@@ -531,7 +531,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "APSG",
+    "SPAC Ticker": "APSG",
     "Name": "Apollo Strategic Growth Capital",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -557,7 +557,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "APXT",
+    "SPAC Ticker": "APXT",
     "Name": "Apex Technology Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Tech, Software, Internet",
@@ -584,7 +584,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ARBG",
+    "SPAC Ticker": "ARBG",
     "Name": "Aequi Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Consumer (Tech-driven, strong ESG)",
@@ -610,7 +610,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ARYA",
+    "SPAC Ticker": "ARYA",
     "Name": "ARYA Sciences Acquisition Corp III",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -636,7 +636,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ARYB",
+    "SPAC Ticker": "ARYB",
     "Name": "ARYA Sciences Acquisition Corp II",
     "Status": "Completed",
     "Target Focus": "",
@@ -662,7 +662,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ASAQ",
+    "SPAC Ticker": "ASAQ",
     "Name": "Atlantic Street Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "",
@@ -689,7 +689,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ASPL",
+    "SPAC Ticker": "ASPL",
     "Name": "Aspirational Consumer Lifestyle Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Consumer, Premium brands that offer an aspirational lifestyle experience",
@@ -715,7 +715,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ATAC",
+    "SPAC Ticker": "ATAC",
     "Name": "Altimar Acquisition Corp\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -741,7 +741,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "AVAN",
+    "SPAC Ticker": "AVAN",
     "Name": "Avanti Acquisition Corp\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Europe (with strong US nexus, int'l reach)",
@@ -767,7 +767,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BCAC",
+    "SPAC Ticker": "BCAC",
     "Name": "Brookline Capital Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Life Sciences, Healthcare",
@@ -793,7 +793,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BCTG",
+    "SPAC Ticker": "BCTG",
     "Name": "BCTG Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Biotech",
@@ -819,7 +819,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BENE",
+    "SPAC Ticker": "BENE",
     "Name": "Benessere Capital Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Tech, North/South America",
@@ -845,7 +845,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BFT",
+    "SPAC Ticker": "BFT",
     "Name": "Foley Trasimene Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "",
@@ -872,7 +872,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BHSE",
+    "SPAC Ticker": "BHSE",
     "Name": "Bull Horn Holdings Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Sports franchises, and sports tech, entertainment and brands",
@@ -898,7 +898,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BLSA",
+    "SPAC Ticker": "BLSA",
     "Name": "BCLS Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Healthcare, Biopharma",
@@ -925,7 +925,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BLUW",
+    "SPAC Ticker": "BLUW",
     "Name": "Blue Water Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare",
@@ -951,7 +951,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BMRG",
+    "SPAC Ticker": "BMRG",
     "Name": "B Riley Principal Merger II Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -978,7 +978,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BOAC",
+    "SPAC Ticker": "BOAC",
     "Name": "Bluescape Opportunities Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Energy, Industrials",
@@ -1004,7 +1004,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BOWX",
+    "SPAC Ticker": "BOWX",
     "Name": "BowX Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -1031,7 +1031,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BREZ",
+    "SPAC Ticker": "BREZ",
     "Name": "Breeze Holdings Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Energy",
@@ -1057,7 +1057,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BRLI",
+    "SPAC Ticker": "BRLI",
     "Name": "Brilliant Acquisition",
     "Status": "Searching",
     "Target Focus": "Asia-Pacific",
@@ -1084,7 +1084,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BRPA",
+    "SPAC Ticker": "BRPA",
     "Name": "Big Rock Partners Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Senior Housing",
@@ -1111,7 +1111,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BSN",
+    "SPAC Ticker": "BSN",
     "Name": "Broadstone Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Stressed, Europe, UK",
@@ -1138,7 +1138,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BTAQ",
+    "SPAC Ticker": "BTAQ",
     "Name": "Burgundy Technology Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Tech (Europe, Israel, US)",
@@ -1165,7 +1165,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BTWN",
+    "SPAC Ticker": "BTWN",
     "Name": "Bridgetown Holdings Limited",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech, financial services, or media sectors in Southeast Asia",
@@ -1191,7 +1191,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BWAC",
+    "SPAC Ticker": "BWAC",
     "Name": "Better World Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Healthy Living / Strong ESG Profiles",
@@ -1217,7 +1217,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "BYNO",
+    "SPAC Ticker": "BYNO",
     "Name": "byNordic Acquisition Corp\n",
     "Status": "Pre IPO",
     "Target Focus": "Northern Europe, Fintech, Tech",
@@ -1243,7 +1243,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CAP",
+    "SPAC Ticker": "CAP",
     "Name": "Capitol Investment Corp. V",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -1269,7 +1269,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CAPA",
+    "SPAC Ticker": "CAPA",
     "Name": "HighCape Capital Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Life Sciences, Healthcare",
@@ -1296,7 +1296,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CAS",
+    "SPAC Ticker": "CAS",
     "Name": "Cascade Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Financial Services",
@@ -1322,7 +1322,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CBAH",
+    "SPAC Ticker": "CBAH",
     "Name": "CBRE Acquisition Holdings, Inc.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -1348,7 +1348,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CCAC",
+    "SPAC Ticker": "CCAC",
     "Name": "CITIC Capital Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Energy Efficiency, Clean Tech, Sustainability",
@@ -1375,7 +1375,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CCIV",
+    "SPAC Ticker": "CCIV",
     "Name": "Churchill Capital Corp IV",
     "Status": "Searching",
     "Target Focus": "",
@@ -1402,7 +1402,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CCV",
+    "SPAC Ticker": "CCV",
     "Name": "Churchill Capital Corp V",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -1428,7 +1428,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CCX",
+    "SPAC Ticker": "CCX",
     "Name": "Churchill Capital Corp II",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -1455,7 +1455,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CCXX",
+    "SPAC Ticker": "CCXX",
     "Name": "Churchill Capital III Corp",
     "Status": "Completed",
     "Target Focus": "",
@@ -1481,7 +1481,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CFAC",
+    "SPAC Ticker": "CFAC",
     "Name": "CF Finance Acquisition Corp. III",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -1507,7 +1507,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CFFA",
+    "SPAC Ticker": "CFFA",
     "Name": "CF Finance Acquisition Corp",
     "Status": "Definitive Agreement: Merger Approved",
     "Target Focus": "Finance, Real Estate, Insurance, Fintech",
@@ -1534,7 +1534,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CFII",
+    "SPAC Ticker": "CFII",
     "Name": "CF Finance Acquisition Corp II",
     "Status": "Searching",
     "Target Focus": "Financial Services, Health-care, Real Estate Services, Tech, Software",
@@ -1561,7 +1561,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CGRO",
+    "SPAC Ticker": "CGRO",
     "Name": "Collective Growth Corp",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -1588,7 +1588,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CHAQ",
+    "SPAC Ticker": "CHAQ",
     "Name": "Chardan Healthcare Acquisition 2 Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -1615,7 +1615,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CHFW",
+    "SPAC Ticker": "CHFW",
     "Name": "Consonance-HFW Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Life Sciences",
@@ -1641,7 +1641,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CHPM",
+    "SPAC Ticker": "CHPM",
     "Name": "CHP Merger Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -1668,7 +1668,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CIIC",
+    "SPAC Ticker": "CIIC",
     "Name": "CIIG Merger Corp",
     "Status": "Searching",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -1695,7 +1695,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CLA",
+    "SPAC Ticker": "CLA",
     "Name": "Colonnade Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Natural Resources, Energy, Real Estate, Agriculture",
@@ -1722,7 +1722,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CLII",
+    "SPAC Ticker": "CLII",
     "Name": "Climate Change Crisis Real Impact I Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Carbon avoidance and removal, Sustainability",
@@ -1748,7 +1748,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CMLF",
+    "SPAC Ticker": "CMLF",
     "Name": "CM Life Sciences, Inc.\n",
     "Status": "Searching",
     "Target Focus": "Life Sciences, Healthcare",
@@ -1775,7 +1775,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CND",
+    "SPAC Ticker": "CND",
     "Name": "Concord Acquisition Corp",
     "Status": "Pre IPO",
     "Target Focus": "Financial Services, Fintech",
@@ -1801,7 +1801,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CONX",
+    "SPAC Ticker": "CONX",
     "Name": "CONX Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -1827,7 +1827,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CPSR",
+    "SPAC Ticker": "CPSR",
     "Name": "Capstar Special Purpose Acquisition",
     "Status": "Searching",
     "Target Focus": "Health-care, Tech, Media, Telecom",
@@ -1854,7 +1854,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CRHC",
+    "SPAC Ticker": "CRHC",
     "Name": "Cohn Robbins Holdings Corp.",
     "Status": "Searching",
     "Target Focus": "",
@@ -1881,7 +1881,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CRSA",
+    "SPAC Ticker": "CRSA",
     "Name": "Crescent Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "",
@@ -1908,7 +1908,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CTAC",
+    "SPAC Ticker": "CTAC",
     "Name": "Cerberus Telecom Acquisition Corp\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Information and Communications Technology",
@@ -1934,7 +1934,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "CTAQ",
+    "SPAC Ticker": "CTAQ",
     "Name": "Carney Technology Acquisition Corp. II\n",
     "Status": "Pre IPO",
     "Target Focus": "Tech",
@@ -1960,7 +1960,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DBDR",
+    "SPAC Ticker": "DBDR",
     "Name": "Roman DBDR Tech Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -1986,7 +1986,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DCRB",
+    "SPAC Ticker": "DCRB",
     "Name": "Decarbonization Plus Acquisition Corporation\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Global decarbonization (incl. energy, agriculture, industrials, transportation, commercial, residential sectors.",
@@ -2012,7 +2012,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DEH",
+    "SPAC Ticker": "DEH",
     "Name": "D8 Holdings Corp",
     "Status": "Searching",
     "Target Focus": "Consumer",
@@ -2039,7 +2039,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DFHT",
+    "SPAC Ticker": "DFHT",
     "Name": "Deerfield Healthcare Technology Acquisitions",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -2066,7 +2066,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DFNS",
+    "SPAC Ticker": "DFNS",
     "Name": "LGL Systems Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Aerospace, Defense, Communications",
@@ -2093,7 +2093,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DFPH",
+    "SPAC Ticker": "DFPH",
     "Name": "DFP Healthcare Acquisitions Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -2120,7 +2120,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DGNR",
+    "SPAC Ticker": "DGNR",
     "Name": "Dragoneer Growth Opportunities Corp.",
     "Status": "Searching",
     "Target Focus": "Software, Internet, Media, Consumer / Retail, Health-care, IT, Financial Services / Fintech",
@@ -2147,7 +2147,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DGNS",
+    "SPAC Ticker": "DGNS",
     "Name": "Dragoneer Growth Opportunities Corp. II",
     "Status": "Pre IPO",
     "Target Focus": "Software, Internet, Media, Consumer / Retail, Health-care, IT, Financial Services / Fintech",
@@ -2173,7 +2173,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DIST",
+    "SPAC Ticker": "DIST",
     "Name": "Distoken Acquisition Corporation\n",
     "Status": "Pre IPO",
     "Target Focus": "Tech (Asia)",
@@ -2199,7 +2199,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DMYD",
+    "SPAC Ticker": "DMYD",
     "Name": "dMY Technology Group, Inc. II",
     "Status": "Definitive Agreement",
     "Target Focus": "Mobile Apps, Consumer Internet, Tech",
@@ -2226,7 +2226,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DMYI",
+    "SPAC Ticker": "DMYI",
     "Name": "dMY Technology Group, Inc. III",
     "Status": "Pre IPO",
     "Target Focus": "Mobile Apps, Consumer Internet, Tech",
@@ -2252,7 +2252,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DMYT",
+    "SPAC Ticker": "DMYT",
     "Name": "dMY Technology Group Inc",
     "Status": "Definitive Agreement",
     "Target Focus": "Mobile Apps, Consumer Internet, Tech",
@@ -2279,7 +2279,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DSAC",
+    "SPAC Ticker": "DSAC",
     "Name": "Duddell Street Acquisition Corp. ",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "TMT (Tech, Media, Telecom), healthcare, fintech, consumer (Asia-growth potential)",
@@ -2305,7 +2305,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DUNE",
+    "SPAC Ticker": "DUNE",
     "Name": "Dune Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "SaaS, Tech",
@@ -2331,7 +2331,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "DWIN",
+    "SPAC Ticker": "DWIN",
     "Name": "Delwinds Insurance Acquisition Corp\n",
     "Status": "Pre IPO",
     "Target Focus": "InsureTech, Insurance",
@@ -2357,7 +2357,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "EDTX",
+    "SPAC Ticker": "EDTX",
     "Name": "EdtechX Holdings Acquisition Corp. II\n",
     "Status": "Pre IPO",
     "Target Focus": "Education, EdTech",
@@ -2383,7 +2383,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "EMPW",
+    "SPAC Ticker": "EMPW",
     "Name": "Empower Ltd.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Consumer products, Retail, Services, Experiences",
@@ -2409,7 +2409,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ENPC",
+    "SPAC Ticker": "ENPC",
     "Name": "Executive Network Partnering Corp.",
     "Status": "Searching",
     "Target Focus": "",
@@ -2436,7 +2436,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "EQD",
+    "SPAC Ticker": "EQD",
     "Name": "Equity Distribution Acquisition Corp.\n",
     "Status": "Searching",
     "Target Focus": "Industrial Tech, Industrial Distribution Tech",
@@ -2463,7 +2463,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ERES",
+    "SPAC Ticker": "ERES",
     "Name": "East Resources Acquisition",
     "Status": "Searching",
     "Target Focus": "Energy",
@@ -2490,7 +2490,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ESSC",
+    "SPAC Ticker": "ESSC",
     "Name": "East Stone Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Fintech",
@@ -2517,7 +2517,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ETAC",
+    "SPAC Ticker": "ETAC",
     "Name": "E.Merge Technology Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Tech, Software, Internet",
@@ -2544,7 +2544,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "EUCR",
+    "SPAC Ticker": "EUCR",
     "Name": "Eucrates Biomedical Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare, Biomedical",
@@ -2570,7 +2570,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "EXPC",
+    "SPAC Ticker": "EXPC",
     "Name": "Experience Investment Corp",
     "Status": "Searching",
     "Target Focus": "Travel and Leisure",
@@ -2597,7 +2597,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FAII",
+    "SPAC Ticker": "FAII",
     "Name": "Fortress Value Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "",
@@ -2624,7 +2624,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FCAC",
+    "SPAC Ticker": "FCAC",
     "Name": "Falcon Capital Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Media, Digital Media / Consumer Tech, Interactive Entertainment",
@@ -2650,7 +2650,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FEAC",
+    "SPAC Ticker": "FEAC",
     "Name": "Flying Eagle Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -2677,7 +2677,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FGNA",
+    "SPAC Ticker": "FGNA",
     "Name": "FG New America Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "FinTech, InsureTech, Financial Services, Insurance",
@@ -2703,7 +2703,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FIII",
+    "SPAC Ticker": "FIII",
     "Name": "Forum Merger III Corporation",
     "Status": "Searching",
     "Target Focus": "",
@@ -2730,7 +2730,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FMAC",
+    "SPAC Ticker": "FMAC",
     "Name": "FirstMark Horizon Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -2756,7 +2756,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FRX",
+    "SPAC Ticker": "FRX",
     "Name": "Forest Road Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -2782,7 +2782,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FSDC",
+    "SPAC Ticker": "FSDC",
     "Name": "FS Development Corp.",
     "Status": "Definitive Agreement",
     "Target Focus": "BioTech, Healthcare",
@@ -2808,7 +2808,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FSRV",
+    "SPAC Ticker": "FSRV",
     "Name": "FinServ Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Fintech, Financial Services",
@@ -2835,7 +2835,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FST",
+    "SPAC Ticker": "FST",
     "Name": "FAST Acquisition Corp. ",
     "Status": "Searching",
     "Target Focus": "Restaurant, Hospitality",
@@ -2862,7 +2862,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FTIV",
+    "SPAC Ticker": "FTIV",
     "Name": "FinTech Acquisition Corp. IV",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Fintech",
@@ -2888,7 +2888,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FTOC",
+    "SPAC Ticker": "FTOC",
     "Name": "FTAC Olympus Acquisition",
     "Status": "Searching",
     "Target Focus": "Tech, Fintech",
@@ -2915,7 +2915,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FUSE",
+    "SPAC Ticker": "FUSE",
     "Name": "Fusion Acquisition",
     "Status": "Searching",
     "Target Focus": "Fintech, Asset Management, Wealth Management",
@@ -2942,7 +2942,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FVAC",
+    "SPAC Ticker": "FVAC",
     "Name": "Fortress Value Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -2969,7 +2969,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "FVAM",
+    "SPAC Ticker": "FVAM",
     "Name": "5:01 Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "BioTech, Healthcare",
@@ -2996,7 +2996,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GCAC",
+    "SPAC Ticker": "GCAC",
     "Name": "Growth Capital Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -3022,7 +3022,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GHIV",
+    "SPAC Ticker": "GHIV",
     "Name": "Gores Holdings IV, Inc",
     "Status": "Definitive Agreement",
     "Target Focus": "Industrials, Tech, Telecom, Media and Entertainment, Business Services, Healthcare and Consumer",
@@ -3049,7 +3049,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GHVI",
+    "SPAC Ticker": "GHVI",
     "Name": "Gores Holdings VI, Inc.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -3075,7 +3075,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GIK",
+    "SPAC Ticker": "GIK",
     "Name": "GigCapital3 Inc",
     "Status": "Searching",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -3102,7 +3102,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GIX",
+    "SPAC Ticker": "GIX",
     "Name": "GigCapital2, Inc",
     "Status": "LOI",
     "Target Focus": "TMT (Tech, Media, Telecom)",
@@ -3129,7 +3129,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GLEO",
+    "SPAC Ticker": "GLEO",
     "Name": "Galileo Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Italy, Italian family-owned businesses",
@@ -3156,7 +3156,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GLSPT",
+    "SPAC Ticker": "GLSPT",
     "Name": "Global SPAC Partners Co.",
     "Status": "Pre IPO",
     "Target Focus": "MENA or South & Southeast Asia",
@@ -3182,7 +3182,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GMHI",
+    "SPAC Ticker": "GMHI",
     "Name": "Gores Metropoulos, Inc",
     "Status": "Definitive Agreement",
     "Target Focus": "Consumer Products and Services",
@@ -3209,7 +3209,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GNPK",
+    "SPAC Ticker": "GNPK",
     "Name": "Genesis Park Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Aviation and aviation services",
@@ -3235,7 +3235,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GNRS",
+    "SPAC Ticker": "GNRS",
     "Name": "Greenrose Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -3262,7 +3262,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GOAC",
+    "SPAC Ticker": "GOAC",
     "Name": "GO Acquisition",
     "Status": "Searching",
     "Target Focus": "Travel",
@@ -3289,7 +3289,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GRCY",
+    "SPAC Ticker": "GRCY",
     "Name": "Greencity Acquisition",
     "Status": "Searching",
     "Target Focus": "Asia",
@@ -3316,7 +3316,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GRNV",
+    "SPAC Ticker": "GRNV",
     "Name": "Greenvision Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Healthcare, China, Asia, Life Sciences",
@@ -3343,7 +3343,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GRSV",
+    "SPAC Ticker": "GRSV",
     "Name": "Gores Holdings V, Inc",
     "Status": "Searching",
     "Target Focus": "",
@@ -3370,7 +3370,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GSAH",
+    "SPAC Ticker": "GSAH",
     "Name": "GS Acquisition Holdings II",
     "Status": "Searching",
     "Target Focus": "",
@@ -3397,7 +3397,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GWAC",
+    "SPAC Ticker": "GWAC",
     "Name": "Good Works Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Financially Distressed",
@@ -3423,7 +3423,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "GXGX",
+    "SPAC Ticker": "GXGX",
     "Name": "GX Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "",
@@ -3450,7 +3450,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HAAC",
+    "SPAC Ticker": "HAAC",
     "Name": "Health Assurance Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare, Health Tech",
@@ -3476,7 +3476,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HCAC",
+    "SPAC Ticker": "HCAC",
     "Name": "Hennessy Capital Acquisition Corp IV",
     "Status": "Definitive Agreement",
     "Target Focus": "Industrials",
@@ -3503,7 +3503,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HCAR",
+    "SPAC Ticker": "HCAR",
     "Name": "Healthcare Services Acquisition Corp\n",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare Services",
@@ -3529,7 +3529,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HCCH",
+    "SPAC Ticker": "HCCH",
     "Name": "HL Acquisitions Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Energy, Hydrocarbon Logistics and Processing ",
@@ -3556,7 +3556,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HEC",
+    "SPAC Ticker": "HEC",
     "Name": "Hudson Executive Investment",
     "Status": "Searching",
     "Target Focus": "Fintech, Healthcare",
@@ -3583,7 +3583,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HIGA",
+    "SPAC Ticker": "HIGA",
     "Name": "H.I.G. Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -3609,7 +3609,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HLXA",
+    "SPAC Ticker": "HLXA",
     "Name": "Helix Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -3636,7 +3636,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HOLU",
+    "SPAC Ticker": "HOLU",
     "Name": "Holicity Inc.",
     "Status": "Searching",
     "Target Focus": "Tech, Media, Telecom",
@@ -3662,7 +3662,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HPX",
+    "SPAC Ticker": "HPX",
     "Name": "HPX Corp",
     "Status": "Searching",
     "Target Focus": "Brazil",
@@ -3689,7 +3689,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HSAQ",
+    "SPAC Ticker": "HSAQ",
     "Name": "Health Sciences Acquisitions Corporation 2\n",
     "Status": "Searching",
     "Target Focus": "Healthcare, Biopharma, Medical Tech",
@@ -3715,7 +3715,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HYAC",
+    "SPAC Ticker": "HYAC",
     "Name": "Haymaker Acquisition Corp. II",
     "Status": "Definitive Agreement",
     "Target Focus": "Consumer",
@@ -3742,7 +3742,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HZAC",
+    "SPAC Ticker": "HZAC",
     "Name": "Horizon Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Financial Services, Fintech, Insurance Tech",
@@ -3769,7 +3769,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "HZON",
+    "SPAC Ticker": "HZON",
     "Name": "Horizon Acquisition Corp II",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Media, Entertainment",
@@ -3795,7 +3795,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IACA",
+    "SPAC Ticker": "IACA",
     "Name": "ION Acquisition Corp 1 Ltd.",
     "Status": "Searching",
     "Target Focus": "Israel, Tech",
@@ -3822,7 +3822,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IGAC",
+    "SPAC Ticker": "IGAC",
     "Name": "IG Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Leisure, Gaming and Hospitality",
@@ -3848,7 +3848,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IIAC",
+    "SPAC Ticker": "IIAC",
     "Name": "Investindustrial Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -3874,7 +3874,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IMPX",
+    "SPAC Ticker": "IMPX",
     "Name": "AEA-Bridges Impact Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "value-added industrials, including sustainable energy and energy efficiency, education, circular economy, consumer, healthcare, and business services",
@@ -3900,7 +3900,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "INAQ",
+    "SPAC Ticker": "INAQ",
     "Name": "INSU Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "Insurance, InsureTech",
@@ -3927,7 +3927,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPOB",
+    "SPAC Ticker": "IPOB",
     "Name": "Social Capital Hedosophia Hldgs II Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Tech, United States",
@@ -3954,7 +3954,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPOC",
+    "SPAC Ticker": "IPOC",
     "Name": "Social Capital Hedosophia Holdings Corp. III",
     "Status": "Definitive Agreement",
     "Target Focus": "Tech, Non-US",
@@ -3981,7 +3981,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPOD",
+    "SPAC Ticker": "IPOD",
     "Name": "Social Capital Hedosophia Holdings Corp. IV",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -4007,7 +4007,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPOE",
+    "SPAC Ticker": "IPOE",
     "Name": "Social Capital Hedosophia Holdings Corp. V",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -4033,7 +4033,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPOF",
+    "SPAC Ticker": "IPOF",
     "Name": "Social Capital Hedosophia Holdings Corp. VI",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -4059,7 +4059,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "IPV",
+    "SPAC Ticker": "IPV",
     "Name": "Interprivate Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -4086,7 +4086,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ITAC",
+    "SPAC Ticker": "ITAC",
     "Name": "Industrial Tech Acquisitions, Inc.\n",
     "Status": "Searching",
     "Target Focus": "Industrial Tech, Energy Tech, Software, IoT, Cloud, LTE, 5G",
@@ -4113,7 +4113,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "JAQC",
+    "SPAC Ticker": "JAQC",
     "Name": "Jupiter Acquisition Corporation",
     "Status": "Pre IPO",
     "Target Focus": "Consumer and Tech, Media, Telecom",
@@ -4139,7 +4139,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "JCIC",
+    "SPAC Ticker": "JCIC",
     "Name": "Jack Creek Investment Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Food and consumer products value chain",
@@ -4165,7 +4165,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "JIH",
+    "SPAC Ticker": "JIH",
     "Name": "Juniper Industrial Holdings Inc",
     "Status": "Searching",
     "Target Focus": "Industrials",
@@ -4192,7 +4192,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "JWS",
+    "SPAC Ticker": "JWS",
     "Name": "Jaws Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "",
@@ -4219,7 +4219,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "JIYA",
+    "SPAC Ticker": "JIYA",
     "Name": "Jiya Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Biopharma, Healthcare",
@@ -4245,7 +4245,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "KCAC",
+    "SPAC Ticker": "KCAC",
     "Name": "Kensington Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Automotive",
@@ -4272,7 +4272,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "KINZ",
+    "SPAC Ticker": "KINZ",
     "Name": "KINS Technology Group Inc.",
     "Status": "Pre IPO",
     "Target Focus": "Tech",
@@ -4298,7 +4298,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "KSMT",
+    "SPAC Ticker": "KSMT",
     "Name": "Kismet Acquisition One Corp",
     "Status": "Searching",
     "Target Focus": "Russia",
@@ -4325,7 +4325,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "KWAC",
+    "SPAC Ticker": "KWAC",
     "Name": "Kingswood Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Financial Services (wealth management, financial advisory and investment management)",
@@ -4351,7 +4351,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LACQ",
+    "SPAC Ticker": "LACQ",
     "Name": "Leisure Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Gaming, Recreation, Travel, Lodging",
@@ -4378,7 +4378,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LATN",
+    "SPAC Ticker": "LATN",
     "Name": "Union Acquisition Corp II",
     "Status": "Searching",
     "Target Focus": "Latin America",
@@ -4405,7 +4405,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LCA",
+    "SPAC Ticker": "LCA",
     "Name": "Landcadia Holdings II, Inc",
     "Status": "Definitive Agreement",
     "Target Focus": "Consumer, Dining, Hospitality, Entertainment, Gaming, Tech",
@@ -4432,7 +4432,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LCAP",
+    "SPAC Ticker": "LCAP",
     "Name": "Lionheart Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "PropTech",
@@ -4459,7 +4459,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LCP",
+    "SPAC Ticker": "LCP",
     "Name": "LCP Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Travel, Leisure & Hospitality",
@@ -4485,7 +4485,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LCY",
+    "SPAC Ticker": "LCY",
     "Name": "Landcadia Holdings III, Inc.​",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Consumer, Dining, Hospitality, Entertainment, Gaming, Tech",
@@ -4511,7 +4511,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LEAP",
+    "SPAC Ticker": "LEAP",
     "Name": "Ribbit LEAP, Ltd.",
     "Status": "Searching",
     "Target Focus": "Fintech",
@@ -4538,7 +4538,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LEGO",
+    "SPAC Ticker": "LEGO",
     "Name": "Legato Merger Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Renewables, Infrastructure, Energy, Construction, Industrial",
@@ -4564,7 +4564,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LFAC",
+    "SPAC Ticker": "LFAC",
     "Name": "LF Capital Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Fintech, Commercial Banking",
@@ -4591,7 +4591,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LFTR",
+    "SPAC Ticker": "LFTR",
     "Name": "Lefteris Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Fintech",
@@ -4617,7 +4617,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LGC",
+    "SPAC Ticker": "LGC",
     "Name": "Legacy Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Consumer Goods",
@@ -4644,7 +4644,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LGVW",
+    "SPAC Ticker": "LGVW",
     "Name": "Longview Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -4671,7 +4671,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LIVK",
+    "SPAC Ticker": "LIVK",
     "Name": "LIV Capital Acquisition",
     "Status": "Searching",
     "Target Focus": "Mexico",
@@ -4698,7 +4698,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LNFA",
+    "SPAC Ticker": "LNFA",
     "Name": "L&F Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Governance, Risk, and Compliance (“GRC”) and Legal Tech / Software",
@@ -4724,7 +4724,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LOAC",
+    "SPAC Ticker": "LOAC",
     "Name": "Longevity Acquisition Corp.\n",
     "Status": "Searching",
     "Target Focus": "China",
@@ -4751,7 +4751,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LOAK",
+    "SPAC Ticker": "LOAK",
     "Name": "Live Oak Acquisition Corp.",
     "Status": "Definitive Agreement",
     "Target Focus": "Financial Services, Industrials, Business Services, and Real Estate",
@@ -4778,7 +4778,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LOKB",
+    "SPAC Ticker": "LOKB",
     "Name": "Live Oak Acquisition Corp. II",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -4804,7 +4804,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LSAC",
+    "SPAC Ticker": "LSAC",
     "Name": "LifeSci Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Healthcare",
@@ -4831,7 +4831,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LSAQ",
+    "SPAC Ticker": "LSAQ",
     "Name": "LifeSci Acquisition II Corp",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare",
@@ -4857,7 +4857,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "LUXA",
+    "SPAC Ticker": "LUXA",
     "Name": "Lux Health Tech Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare Tech",
@@ -4883,7 +4883,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MAAC",
+    "SPAC Ticker": "MAAC",
     "Name": "Montes Archimedes Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare",
@@ -4909,7 +4909,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MACU",
+    "SPAC Ticker": "MACU",
     "Name": "Mallard Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "value-added distribution, industrial specialty services, & differentiated manufacturing",
@@ -4935,7 +4935,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MCAC",
+    "SPAC Ticker": "MCAC",
     "Name": "Mountain Crest Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "",
@@ -4961,7 +4961,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MCMJ",
+    "SPAC Ticker": "MCMJ",
     "Name": "Merida Merger Corp. I",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -4988,7 +4988,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MFAC",
+    "SPAC Ticker": "MFAC",
     "Name": "Megalith Financial Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Fintech, Financial Services",
@@ -5015,7 +5015,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MLAC",
+    "SPAC Ticker": "MLAC",
     "Name": "Malacca Straits Acquisition",
     "Status": "Searching",
     "Target Focus": "Southeast Asia",
@@ -5042,7 +5042,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MNCL",
+    "SPAC Ticker": "MNCL",
     "Name": "Monocle Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Aerospace, Defense, Industrial",
@@ -5069,7 +5069,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MOTN",
+    "SPAC Ticker": "MOTN",
     "Name": "Motion Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Telematics (including transportation software)",
@@ -5095,7 +5095,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "MUDS",
+    "SPAC Ticker": "MUDS",
     "Name": "Mudrick Capital Acquisition Corporation II",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -5121,7 +5121,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NBA",
+    "SPAC Ticker": "NBA",
     "Name": "New Beginnings Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -5147,7 +5147,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NBAC",
+    "SPAC Ticker": "NBAC",
     "Name": "Newborn Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Asia (Non-China)",
@@ -5174,7 +5174,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NFIN",
+    "SPAC Ticker": "NFIN",
     "Name": "Netfin Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Fintech",
@@ -5201,7 +5201,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NGA",
+    "SPAC Ticker": "NGA",
     "Name": "Northern Genesis Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Sustainability, Societal Infrastructure",
@@ -5228,7 +5228,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NGAC",
+    "SPAC Ticker": "NGAC",
     "Name": "NextGen Acquisition Corporation",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Industrial, Healthcare",
@@ -5254,7 +5254,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NHIC",
+    "SPAC Ticker": "NHIC",
     "Name": "NewHold Investment Corp",
     "Status": "Searching",
     "Target Focus": "Industrial Technology, $700M+",
@@ -5281,7 +5281,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NMMC",
+    "SPAC Ticker": "NMMC",
     "Name": "North Mountain Merger Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Fintech",
@@ -5307,7 +5307,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NOAC",
+    "SPAC Ticker": "NOAC",
     "Name": "Natural Order Acquisition Corp",
     "Status": "Pre IPO",
     "Target Focus": "Sustainable plant-based food and nutrition Tech & Products",
@@ -5333,7 +5333,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NOVS",
+    "SPAC Ticker": "NOVS",
     "Name": "Novus Capital Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Smart Tech5G communication, VR, AI, Cloud, Machine Learning",
@@ -5360,7 +5360,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NPA",
+    "SPAC Ticker": "NPA",
     "Name": "New Providence Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Consumer Goods",
@@ -5387,7 +5387,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "NSH",
+    "SPAC Ticker": "NSH",
     "Name": "NavSight Holdings, Inc.",
     "Status": "Searching",
     "Target Focus": "Tech, US Government Vendors",
@@ -5414,7 +5414,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "OAC",
+    "SPAC Ticker": "OAC",
     "Name": "Oaktree Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Industrial, Consumer",
@@ -5441,7 +5441,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "OACB",
+    "SPAC Ticker": "OACB",
     "Name": "Oaktree Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "Industrial, Consumer",
@@ -5468,7 +5468,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "OCA",
+    "SPAC Ticker": "OCA",
     "Name": "Omnichannel Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "“Omnichannel” - technology-enabled cross-channel retail and consumer services",
@@ -5494,7 +5494,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "OPES",
+    "SPAC Ticker": "OPES",
     "Name": "Opes Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Mexico",
@@ -5521,7 +5521,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ORSN",
+    "SPAC Ticker": "ORSN",
     "Name": "Orisun Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Tech",
@@ -5548,7 +5548,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "OTRA",
+    "SPAC Ticker": "OTRA",
     "Name": "OTR Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -5574,7 +5574,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PACE",
+    "SPAC Ticker": "PACE",
     "Name": "TPG Pace Tech Opportunities Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -5600,7 +5600,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PAIC",
+    "SPAC Ticker": "PAIC",
     "Name": "Petra Acquisition, Inc.",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare",
@@ -5626,7 +5626,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PANA",
+    "SPAC Ticker": "PANA",
     "Name": "Panacea Acquisition",
     "Status": "Definitive Agreement",
     "Target Focus": "Biotech, Healthcare",
@@ -5652,7 +5652,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PCPL",
+    "SPAC Ticker": "PCPL",
     "Name": "CC Neuberger Principal Holdings I",
     "Status": "Definitive Agreement",
     "Target Focus": "Finance, Tech",
@@ -5679,7 +5679,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PCPC",
+    "SPAC Ticker": "PCPC",
     "Name": "Periphas Capital Partnering Corp",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -5705,7 +5705,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PDAC",
+    "SPAC Ticker": "PDAC",
     "Name": "Peridot Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Environmental Sustainability, Industrial (Greenhouse gas reduction)",
@@ -5731,7 +5731,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PHIC",
+    "SPAC Ticker": "PHIC",
     "Name": "Population Health Investment Co., Inc.",
     "Status": "Pre IPO",
     "Target Focus": "Therapeutics, Healthcare",
@@ -5757,7 +5757,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PIAI",
+    "SPAC Ticker": "PIAI",
     "Name": "Prime Impact Acquisition I",
     "Status": "Searching",
     "Target Focus": "TMT, MedTech and Industrial Tech (Data-Centric)",
@@ -5784,7 +5784,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PIC",
+    "SPAC Ticker": "PIC",
     "Name": "Pivotal Investment Corporation II",
     "Status": "Definitive Agreement",
     "Target Focus": "Tech, LogTech, Last Mile Delivery, Cyber Security, Media, Entertainment",
@@ -5811,7 +5811,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PIPP",
+    "SPAC Ticker": "PIPP",
     "Name": "Pine Island Acquisition Corp.\n",
     "Status": "Pre IPO",
     "Target Focus": "Defense, Government service and Aerospace",
@@ -5837,7 +5837,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PMVC",
+    "SPAC Ticker": "PMVC",
     "Name": "PMV Consumer Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Consumer, Consumer Tech, Infrastructure, Supply Chain",
@@ -5863,7 +5863,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PRPB",
+    "SPAC Ticker": "PRPB",
     "Name": "CC Neuberger Principal Holdings II",
     "Status": "Searching",
     "Target Focus": "",
@@ -5890,7 +5890,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PSAC",
+    "SPAC Ticker": "PSAC",
     "Name": "Property Solutions Acquisition",
     "Status": "Searching",
     "Target Focus": "PropTech, Real Estate",
@@ -5917,7 +5917,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PSTH",
+    "SPAC Ticker": "PSTH",
     "Name": "Pershing Square Tontine Holdings",
     "Status": "Searching",
     "Target Focus": "\n",
@@ -5944,7 +5944,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PTAC",
+    "SPAC Ticker": "PTAC",
     "Name": "PropTech Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "PropTech ",
@@ -5971,7 +5971,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PTIC",
+    "SPAC Ticker": "PTIC",
     "Name": "PropTech Investment Corporation II",
     "Status": "Pre IPO",
     "Target Focus": "PropTech ",
@@ -5997,7 +5997,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "PTK",
+    "SPAC Ticker": "PTK",
     "Name": "PTK Acquisition",
     "Status": "Searching",
     "Target Focus": "Tech",
@@ -6024,7 +6024,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "QELL",
+    "SPAC Ticker": "QELL",
     "Name": "Qell Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Next-generation Mobility, Transportation, Sustainable Industrial Technology",
@@ -6050,7 +6050,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RACA",
+    "SPAC Ticker": "RACA",
     "Name": "Therapeutics Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare",
@@ -6076,7 +6076,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RBAC",
+    "SPAC Ticker": "RBAC",
     "Name": "RedBall Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Sports, Media, Data Analytics, Professional Sports Franchises",
@@ -6103,7 +6103,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RCHG",
+    "SPAC Ticker": "RCHG",
     "Name": "Recharge Acquisition Corp\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -6129,7 +6129,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RICE",
+    "SPAC Ticker": "RICE",
     "Name": "Rice Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Energy transition / Sustainability",
@@ -6155,7 +6155,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RMG",
+    "SPAC Ticker": "RMG",
     "Name": "RMG Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Diversified Resources, Industrial Materials",
@@ -6182,7 +6182,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RMGB",
+    "SPAC Ticker": "RMGB",
     "Name": "RMG Acquisition Corp. II",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -6208,7 +6208,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ROCH",
+    "SPAC Ticker": "ROCH",
     "Name": "Roth CH Acquisition I Co",
     "Status": "Searching",
     "Target Focus": "Business Services, Consumer, Healthcare, Tech, Wellness",
@@ -6235,7 +6235,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RPLA",
+    "SPAC Ticker": "RPLA",
     "Name": "Replay Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Argentina, Brazil",
@@ -6262,7 +6262,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RTP",
+    "SPAC Ticker": "RTP",
     "Name": "Reinvent Technology Partners",
     "Status": "Searching",
     "Target Focus": "Consumer Internet, Mobile Gaming, Tech",
@@ -6289,7 +6289,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "RTPZ",
+    "SPAC Ticker": "RTPZ",
     "Name": "Reinvent Technology Partners Z",
     "Status": "Pre IPO",
     "Target Focus": "Consumer Internet, Mobile Gaming, Tech",
@@ -6315,7 +6315,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SAII",
+    "SPAC Ticker": "SAII",
     "Name": "Software Acquisition Group Inc. II",
     "Status": "Searching",
     "Target Focus": "Software, Tech",
@@ -6342,7 +6342,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SAMA",
+    "SPAC Ticker": "SAMA",
     "Name": "Schultze Special Purpose Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Restructured Companies",
@@ -6369,7 +6369,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SBE",
+    "SPAC Ticker": "SBE",
     "Name": "Switchback Energy Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Energy",
@@ -6396,7 +6396,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SBG",
+    "SPAC Ticker": "SBG",
     "Name": "Sandbridge Acquisition Corporation",
     "Status": "Searching",
     "Target Focus": "Consumer",
@@ -6423,7 +6423,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SCPE",
+    "SPAC Ticker": "SCPE",
     "Name": "SC Health Corp",
     "Status": "Searching",
     "Target Focus": "Healthcare, Asia",
@@ -6450,7 +6450,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SCVX",
+    "SPAC Ticker": "SCVX",
     "Name": "SCVX Corp",
     "Status": "Searching",
     "Target Focus": "Cybersecurity",
@@ -6477,7 +6477,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SEAH",
+    "SPAC Ticker": "SEAH",
     "Name": "Sports Entertainment Acquisition Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Sports (incl. Tech & Services), Entertainment (incl. Tech & Services)",
@@ -6503,7 +6503,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SFTW",
+    "SPAC Ticker": "SFTW",
     "Name": "Osprey Technology Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Enterprise Software",
@@ -6530,7 +6530,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SGAM",
+    "SPAC Ticker": "SGAM",
     "Name": "Seaport Global Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -6556,7 +6556,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SHAC",
+    "SPAC Ticker": "SHAC",
     "Name": "SCP & CO Healthcare Acquisition Company\n",
     "Status": "Pre IPO",
     "Target Focus": "Healthcare",
@@ -6582,7 +6582,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SMMC",
+    "SPAC Ticker": "SMMC",
     "Name": "South Mountain Merger Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Fintech",
@@ -6609,7 +6609,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SNPR",
+    "SPAC Ticker": "SNPR",
     "Name": "Tortoise Acquisition Corp. II",
     "Status": "Searching",
     "Target Focus": "Energy transition, Sustainability (Decarbonization/ Emission Reduction)",
@@ -6636,7 +6636,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SOAC",
+    "SPAC Ticker": "SOAC",
     "Name": "Sustainable Opportunities Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Sustainability",
@@ -6663,7 +6663,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SPNV",
+    "SPAC Ticker": "SPNV",
     "Name": "Supernova Partners Acquisition Company",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "\"Growth company that Benefits from Tech-enabled trends\"",
@@ -6689,7 +6689,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SRAC",
+    "SPAC Ticker": "SRAC",
     "Name": "Stable Road Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Cannabis",
@@ -6716,7 +6716,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SRSA",
+    "SPAC Ticker": "SRSA",
     "Name": "Sarissa Capital Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Healthcare, Biopharma",
@@ -6742,7 +6742,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SSPK",
+    "SPAC Ticker": "SSPK",
     "Name": "Silver Spike Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -6769,7 +6769,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "STIC",
+    "SPAC Ticker": "STIC",
     "Name": "Northern Star Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Beauty, wellness, self-care, fashion, e-commerce, digital media",
@@ -6795,7 +6795,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "STPK",
+    "SPAC Ticker": "STPK",
     "Name": "Star Peak Energy Transition Corp",
     "Status": "Searching",
     "Target Focus": "Renewable Energy, Energy Transition Infrastructure",
@@ -6822,7 +6822,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "STWO",
+    "SPAC Ticker": "STWO",
     "Name": "ACON S2 Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Sustainability",
@@ -6848,7 +6848,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SV",
+    "SPAC Ticker": "SV",
     "Name": "Spring Valley Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Environmental Sustainability (Clean Energy/storage, mobility, recycling +)",
@@ -6874,7 +6874,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "SVAC",
+    "SPAC Ticker": "SVAC",
     "Name": "Starboard Value Acquisition Corp.\n",
     "Status": "Searching",
     "Target Focus": "Tech, Healthcare, Consumer, Industrials, Hospitality, Entertainment ",
@@ -6901,7 +6901,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TDAC",
+    "SPAC Ticker": "TDAC",
     "Name": "Trident Acquisitions Corp",
     "Status": "Searching",
     "Target Focus": "Oil and Gas, Natural Resources, Europe",
@@ -6928,7 +6928,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TEKK",
+    "SPAC Ticker": "TEKK",
     "Name": "Tekkorp Digital Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Digital media, sports, entertainment, leisure, gaming",
@@ -6954,7 +6954,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TFV",
+    "SPAC Ticker": "TFV",
     "Name": "FinTech Acquisition Corp. V",
     "Status": "Pre IPO",
     "Target Focus": "Fintech",
@@ -6980,7 +6980,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "THBR",
+    "SPAC Ticker": "THBR",
     "Name": "Thunder Bridge Acquisition II",
     "Status": "Searching",
     "Target Focus": "Fintech",
@@ -7007,7 +7007,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "THCA",
+    "SPAC Ticker": "THCA",
     "Name": "Tuscan Holdings Corp II",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -7034,7 +7034,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "THCB",
+    "SPAC Ticker": "THCB",
     "Name": "Tuscan Holdings Corp",
     "Status": "Searching",
     "Target Focus": "Cannabis",
@@ -7061,7 +7061,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TINV",
+    "SPAC Ticker": "TINV",
     "Name": "Tiga Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "",
@@ -7087,7 +7087,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TMKR",
+    "SPAC Ticker": "TMKR",
     "Name": "Tastemaker Acquisition Corp.",
     "Status": "Pre IPO",
     "Target Focus": "Restaurant, Hospitality",
@@ -7113,7 +7113,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TMPM",
+    "SPAC Ticker": "TMPM",
     "Name": "Turmeric Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Biotech (emphasis on oncology & rare disease therapeutics)",
@@ -7139,7 +7139,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TMTS",
+    "SPAC Ticker": "TMTS",
     "Name": "Spartacus Acquisition Corporation\n",
     "Status": "Searching",
     "Target Focus": "TMT (Telecom, Media, Tech)",
@@ -7166,7 +7166,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TOTA",
+    "SPAC Ticker": "TOTA",
     "Name": "Tottenham Acquisition I",
     "Status": "Definitive Agreement",
     "Target Focus": "Asia Ops (Focus on China), TMT (Technology, Media, Telecom), education, e-commerce, Health-care, Consumer",
@@ -7193,7 +7193,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TPGY",
+    "SPAC Ticker": "TPGY",
     "Name": "TPG Pace Beneficial Finance Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Attractive fundamentals with strong ESG, or potential for improved ESG",
@@ -7219,7 +7219,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TREB",
+    "SPAC Ticker": "TREB",
     "Name": "Trebia Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Financial Services, Tech",
@@ -7246,7 +7246,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TRNE",
+    "SPAC Ticker": "TRNE",
     "Name": "Trine Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "Media, Communications",
@@ -7273,7 +7273,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TSIA",
+    "SPAC Ticker": "TSIA",
     "Name": "TS Innovation Acquisitions Corp.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Real Estate, Proptech",
@@ -7299,7 +7299,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TVAC",
+    "SPAC Ticker": "TVAC",
     "Name": "Thayer Ventures Acquisition Corp\n",
     "Status": "Pre IPO",
     "Target Focus": "Travel and Transportation Tech",
@@ -7325,7 +7325,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TWCT",
+    "SPAC Ticker": "TWCT",
     "Name": "TWC Tech Holdings II Corp",
     "Status": "Searching",
     "Target Focus": "Tech",
@@ -7352,7 +7352,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TWND",
+    "SPAC Ticker": "TWND",
     "Name": "Tailwind Acquisition Corp.",
     "Status": "Searching",
     "Target Focus": "Tech, Consumer Internet, Digital Media, Marketing Tech",
@@ -7379,7 +7379,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "TZAC",
+    "SPAC Ticker": "TZAC",
     "Name": "Tenzing Acquisition Corp",
     "Status": "Definitive Agreement",
     "Target Focus": "India",
@@ -7406,7 +7406,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "UTXO",
+    "SPAC Ticker": "UTXO",
     "Name": "UTXO Acquisition",
     "Status": "Pre IPO",
     "Target Focus": "Tech",
@@ -7432,7 +7432,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VACQ",
+    "SPAC Ticker": "VACQ",
     "Name": "Vector Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -7458,7 +7458,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VCVC",
+    "SPAC Ticker": "VCVC",
     "Name": "10X Capital Venture Acquisition Corp\n",
     "Status": "Pre IPO",
     "Target Focus": "Tech",
@@ -7484,7 +7484,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VGAC",
+    "SPAC Ticker": "VGAC",
     "Name": "VG Acquisition Corp",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "",
@@ -7510,7 +7510,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VIH",
+    "SPAC Ticker": "VIH",
     "Name": "VPC Impact Acquisition Holdings\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Fintech",
@@ -7536,7 +7536,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VMAC",
+    "SPAC Ticker": "VMAC",
     "Name": "Vistas Media Acquisition Company Inc.",
     "Status": "Searching",
     "Target Focus": "Media, Entertainment",
@@ -7563,7 +7563,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VSPR",
+    "SPAC Ticker": "VSPR",
     "Name": "Vesper Healthcare Acquisition Corp.\n",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Pharmaceuticals, Healthcare",
@@ -7589,7 +7589,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "VYGG",
+    "SPAC Ticker": "VYGG",
     "Name": "Vy Global Growth",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -7615,7 +7615,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "WPF",
+    "SPAC Ticker": "WPF",
     "Name": "Foley Trasimene Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "Fintech",
@@ -7642,7 +7642,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "XPOA",
+    "SPAC Ticker": "XPOA",
     "Name": "DPCM Capital, Inc.",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Tech",
@@ -7668,7 +7668,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "XXXX",
+    "SPAC Ticker": "XXXX",
     "Name": "Goldenbridge Acquisition Limited",
     "Status": "Pre IPO",
     "Target Focus": "Artificial Intelligence, Other Tech Innovations",
@@ -7694,7 +7694,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "XXXX",
+    "SPAC Ticker": "XXXX",
     "Name": "Spartan Acquisition Corp. II",
     "Status": "Pre IPO",
     "Target Focus": "Energy",
@@ -7720,7 +7720,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "XXXX",
+    "SPAC Ticker": "XXXX",
     "Name": "Leo Holdings Corp. II",
     "Status": "Pre IPO",
     "Target Focus": "Consumer",
@@ -7746,7 +7746,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "YAC",
+    "SPAC Ticker": "YAC",
     "Name": "Yucaipa Acquisition Corp",
     "Status": "Searching",
     "Target Focus": "",
@@ -7773,7 +7773,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "YSAC",
+    "SPAC Ticker": "YSAC",
     "Name": "Yellowstone Acquisition Company",
     "Status": "Searching (Pre Unit Split)",
     "Target Focus": "Homebuilding, manufacturing serving the homebuilding market, financial services & commercial real estate",
@@ -7799,7 +7799,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ZNTE",
+    "SPAC Ticker": "ZNTE",
     "Name": "Zanite Acquisition Corp",
     "Status": "Pre IPO",
     "Target Focus": "Aerospace & Defense, Urban Mobility and Emerging Technology, Sustainable aviation",
@@ -7825,7 +7825,7 @@
     "Warrant Ticker": null
   },
   {
-    "SPAC Ticker Symbol": "ZGYH",
+    "SPAC Ticker": "ZGYH",
     "Name": "Yunhong International",
     "Status": "Searching",
     "Target Focus": "Consumer, Lifestyle, NOT China",
