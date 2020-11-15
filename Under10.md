@@ -1,74 +1,74 @@
-Status               | Name                                         | Common Price 
--------------------- | -------------------------------------------- | -------------
-Definitive Agreement | Newborn Acquisition Corp                     | $10.00       
-Searching            | FinServ Acquisition Corp                     | $10.00       
-Searching            | SCVX Corp                                    | $10.01       
-Definitive Agreement | Mountain Crest Acquisition Corp              | $10.03       
-Definitive Agreement | Haymaker Acquisition Corp. II                | $10.03       
-Searching            | Crescent Acquisition Corp                    | $10.03       
-Definitive Agreement | Churchill Capital Corp II                    | $10.03       
-Definitive Agreement | Orisun Acquisition Corp                      | $10.04       
-Searching            | CHP Merger Corp                              | $10.04       
-Searching            | Foley Trasimene Acquisition Corp             | $10.05       
-Definitive Agreement | Greenvision Acquisition Corp                 | $10.05       
-Searching            | DFP Healthcare Acquisitions Corp             | $10.05       
-Searching            | Andina Acquisition Corp III                  | $10.06       
-Searching            | Juniper Industrial Holdings Inc              | $10.06       
-Searching            | Roth CH Acquisition I Co                     | $10.07       
-Searching            | CIIG Merger Corp                             | $10.07       
-Definitive Agreement | Interprivate Acquisition Corp                | $10.07       
-Searching            | GS Acquisition Holdings II                   | $10.08       
-Searching            | Thunder Bridge Acquisition II                | $10.08       
-Searching            | 5:01 Acquisition Corp                        | $10.08       
-LOI                  | GigCapital2, Inc                             | $10.08       
-Definitive Agreement | PropTech Acquisition Corp                    | $10.08       
-Searching            | Silver Spike Acquisition Corp                | $10.10       
-Definitive Agreement | CC Neuberger Principal Holdings I            | $10.10       
-Searching            | SC Health Corp                               | $10.10       
-Definitive Agreement | dMY Technology Group, Inc. II                | $10.11       
-Definitive Agreement | Pivotal Investment Corporation II            | $10.11       
-Searching            | New Providence Acquisition Corp              | $10.11       
-Definitive Agreement | Replay Acquisition Corp                      | $10.12       
-Definitive Agreement | Oaktree Acquisition Corp                     | $10.14       
-Definitive Agreement | Panacea Acquisition                          | $10.15       
-Definitive Agreement | Acamar Partners Acquisition Corp             | $10.15       
-Definitive Agreement | FS Development Corp.                         | $10.15       
-Searching            | Osprey Technology Acquisition Corp           | $10.15       
-Definitive Agreement | Gores Metropoulos, Inc                       | $10.16       
-Searching            | one                                          | $10.19       
-Searching            | Deerfield Healthcare Technology Acquisitions | $10.20       
-Searching            | ION Acquisition Corp 1 Ltd.                  | $10.21       
-Definitive Agreement | RMG Acquisition Corp                         | $10.21       
-Searching            | RedBall Acquisition Corp.                    | $10.22       
-Definitive Agreement | Schultze Special Purpose Acquisition Corp    | $10.22       
-Definitive Agreement | AMCI Acquisition Corp                        | $10.23       
-Searching            | CM Life Sciences, Inc.                       | $10.23       
-Searching            | Apex Technology Acquisition Corp             | $10.24       
-Definitive Agreement | Monocle Acquisition Corp                     | $10.27       
-LOI                  | Tuscan Holdings Corp                         | $10.27       
-Definitive Agreement | Hennessy Capital Acquisition Corp IV         | $10.27       
-Merger Approved      | CF Finance Acquisition Corp                  | $10.33       
-Searching            | Agba Acquisition Ltd                         | $10.33       
-Definitive Agreement | Stable Road Acquisition Corp                 | $10.34       
-Definitive Agreement | Megalith Financial Acquisition Corp          | $10.36       
-Searching            | GX Acquisition Corp                          | $10.39       
-Definitive Agreement | Trine Acquisition Corp                       | $10.40       
-Searching            | BCTG Acquisition Corp                        | $10.43       
-Definitive Agreement | Legacy Acquisition Corp                      | $10.45       
-Searching            | ARYA Sciences Acquisition Corp III           | $10.48       
-Searching            | Helix Acquisition Corp                       | $10.54       
-Searching            | Leisure Acquisition Corp                     | $10.55       
-Searching            | Equity Distribution Acquisition Corp.        | $10.55       
-Definitive Agreement | LF Capital Acquisition Corp                  | $10.55       
-Searching            | Foley Trasimene Acquisition Corp. II         | $10.59       
-Searching            | BCLS Acquisition Corp.                       | $10.63       
-Definitive Agreement | Novus Capital Corp                           | $10.65       
-Searching            | Reinvent Technology Partners                 | $10.71       
-Searching            | Longevity Acquisition Corp.                  | $10.72       
-Searching            | Big Rock Partners Acquisition Corp           | $10.75       
-Definitive Agreement | Alberton Acquisition Corp                    | $10.77       
-Searching            | Trident Acquisitions Corp                    | $10.77       
-Merger Approved      | B Riley Principal Merger II Corp             | $10.82       
-Definitive Agreement | Tenzing Acquisition Corp                     | $10.82       
-Definitive Agreement | Live Oak Acquisition Corp.                   | $10.88       
-Definitive Agreement | Tottenham Acquisition I                      | $10.90       
+Name                                         | Status               | Common Price 
+-------------------------------------------- | -------------------- | -------------
+Newborn Acquisition Corp                     | Definitive Agreement | $10.00       
+FinServ Acquisition Corp                     | Searching            | $10.00       
+SCVX Corp                                    | Searching            | $10.01       
+Mountain Crest Acquisition Corp              | Definitive Agreement | $10.03       
+Haymaker Acquisition Corp. II                | Definitive Agreement | $10.03       
+Crescent Acquisition Corp                    | Searching            | $10.03       
+Churchill Capital Corp II                    | Definitive Agreement | $10.03       
+Orisun Acquisition Corp                      | Definitive Agreement | $10.04       
+CHP Merger Corp                              | Searching            | $10.04       
+Foley Trasimene Acquisition Corp             | Searching            | $10.05       
+Greenvision Acquisition Corp                 | Definitive Agreement | $10.05       
+DFP Healthcare Acquisitions Corp             | Searching            | $10.05       
+Andina Acquisition Corp III                  | Searching            | $10.06       
+Juniper Industrial Holdings Inc              | Searching            | $10.06       
+Roth CH Acquisition I Co                     | Searching            | $10.07       
+CIIG Merger Corp                             | Searching            | $10.07       
+Interprivate Acquisition Corp                | Definitive Agreement | $10.07       
+GS Acquisition Holdings II                   | Searching            | $10.08       
+Thunder Bridge Acquisition II                | Searching            | $10.08       
+5:01 Acquisition Corp                        | Searching            | $10.08       
+GigCapital2, Inc                             | LOI                  | $10.08       
+PropTech Acquisition Corp                    | Definitive Agreement | $10.08       
+Silver Spike Acquisition Corp                | Searching            | $10.10       
+CC Neuberger Principal Holdings I            | Definitive Agreement | $10.10       
+SC Health Corp                               | Searching            | $10.10       
+dMY Technology Group, Inc. II                | Definitive Agreement | $10.11       
+Pivotal Investment Corporation II            | Definitive Agreement | $10.11       
+New Providence Acquisition Corp              | Searching            | $10.11       
+Replay Acquisition Corp                      | Definitive Agreement | $10.12       
+Oaktree Acquisition Corp                     | Definitive Agreement | $10.14       
+Panacea Acquisition                          | Definitive Agreement | $10.15       
+Acamar Partners Acquisition Corp             | Definitive Agreement | $10.15       
+FS Development Corp.                         | Definitive Agreement | $10.15       
+Osprey Technology Acquisition Corp           | Searching            | $10.15       
+Gores Metropoulos, Inc                       | Definitive Agreement | $10.16       
+one                                          | Searching            | $10.19       
+Deerfield Healthcare Technology Acquisitions | Searching            | $10.20       
+ION Acquisition Corp 1 Ltd.                  | Searching            | $10.21       
+RMG Acquisition Corp                         | Definitive Agreement | $10.21       
+RedBall Acquisition Corp.                    | Searching            | $10.22       
+Schultze Special Purpose Acquisition Corp    | Definitive Agreement | $10.22       
+AMCI Acquisition Corp                        | Definitive Agreement | $10.23       
+CM Life Sciences, Inc.                       | Searching            | $10.23       
+Apex Technology Acquisition Corp             | Searching            | $10.24       
+Monocle Acquisition Corp                     | Definitive Agreement | $10.27       
+Tuscan Holdings Corp                         | LOI                  | $10.27       
+Hennessy Capital Acquisition Corp IV         | Definitive Agreement | $10.27       
+CF Finance Acquisition Corp                  | Merger Approved      | $10.33       
+Agba Acquisition Ltd                         | Searching            | $10.33       
+Stable Road Acquisition Corp                 | Definitive Agreement | $10.34       
+Megalith Financial Acquisition Corp          | Definitive Agreement | $10.36       
+GX Acquisition Corp                          | Searching            | $10.39       
+Trine Acquisition Corp                       | Definitive Agreement | $10.40       
+BCTG Acquisition Corp                        | Searching            | $10.43       
+Legacy Acquisition Corp                      | Definitive Agreement | $10.45       
+ARYA Sciences Acquisition Corp III           | Searching            | $10.48       
+Helix Acquisition Corp                       | Searching            | $10.54       
+Leisure Acquisition Corp                     | Searching            | $10.55       
+Equity Distribution Acquisition Corp.        | Searching            | $10.55       
+LF Capital Acquisition Corp                  | Definitive Agreement | $10.55       
+Foley Trasimene Acquisition Corp. II         | Searching            | $10.59       
+BCLS Acquisition Corp.                       | Searching            | $10.63       
+Novus Capital Corp                           | Definitive Agreement | $10.65       
+Reinvent Technology Partners                 | Searching            | $10.71       
+Longevity Acquisition Corp.                  | Searching            | $10.72       
+Big Rock Partners Acquisition Corp           | Searching            | $10.75       
+Alberton Acquisition Corp                    | Definitive Agreement | $10.77       
+Trident Acquisitions Corp                    | Searching            | $10.77       
+B Riley Principal Merger II Corp             | Merger Approved      | $10.82       
+Tenzing Acquisition Corp                     | Definitive Agreement | $10.82       
+Live Oak Acquisition Corp.                   | Definitive Agreement | $10.88       
+Tottenham Acquisition I                      | Definitive Agreement | $10.90       
