@@ -41,7 +41,7 @@ Definitive Agreement | $10.20        | RMG Acquisition Corp
 Searching            | $10.21        | ION Acquisition Corp 1 Ltd.                 
 Searching            | $10.24        | BCTG Acquisition Corp                       
 Definitive Agreement | $10.25        | Hennessy Capital Acquisition Corp IV        
-LOI                  | $10.29        | Tuscan Holdings Corp                        
+LOI                  | $10.27        | Tuscan Holdings Corp                        
 Definitive Agreement | $10.30        | AMCI Acquisition Corp                       
 Searching            | $10.30        | Apex Technology Acquisition Corp            
 Searching            | $10.31        | Agba Acquisition Ltd                        
