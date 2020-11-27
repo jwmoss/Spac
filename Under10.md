@@ -20,7 +20,7 @@ $10.08        | Mountain Crest Acquisition Corp              | Definitive Agreem
 $10.09        | FS Development Corp.                         | Definitive Agreement
 $10.09        | LGL Systems Acquisition Corp                 | Searching           
 $10.09        | CHP Merger Corp                              | Searching           
-$10.09        | DFP Healthcare Acquisitions Corp             | Searching           
+$10.10        | DFP Healthcare Acquisitions Corp             | Searching           
 $10.11        | GigCapital2, Inc                             | Definitive Agreement
 $10.11        | Vy Global Growth                             | Searching           
 $10.12        | New Providence Acquisition Corp              | Searching           
@@ -40,19 +40,19 @@ $10.20        | Acamar Partners Acquisition Corp             | Definitive Agreem
 $10.22        | Thunder Bridge Acquisition II                | Searching           
 $10.24        | GS Acquisition Holdings II                   | Searching           
 $10.25        | Silver Spike Acquisition Corp                | Searching           
+$10.25        | Monocle Acquisition Corp                     | Definitive Agreement
 $10.25        | Oaktree Acquisition Corp                     | Definitive Agreement
 $10.26        | Juniper Industrial Holdings Inc              | Searching           
 $10.26        | Tortoise Acquisition Corp. II                | Searching           
 $10.28        | one                                          | Searching           
 $10.29        | Social Capital Hedosophia Holdings Corp. III | Definitive Agreement
 $10.33        | Sustainable Opportunities Acquisition Corp   | Searching           
-$10.34        | Monocle Acquisition Corp                     | Definitive Agreement
 $10.37        | Agba Acquisition Ltd                         | Searching           
 $10.39        | CITIC Capital Acquisition Corp               | Searching           
 $10.40        | ARYA Sciences Acquisition Corp III           | Searching           
 $10.45        | Deerfield Healthcare Technology Acquisitions | Searching           
-$10.45        | Megalith Financial Acquisition Corp          | Definitive Agreement
 $10.46        | Schultze Special Purpose Acquisition Corp    | Definitive Agreement
+$10.49        | Megalith Financial Acquisition Corp          | Definitive Agreement
 $10.49        | Foley Trasimene Acquisition Corp. II         | Searching           
 $10.50        | PropTech Acquisition Corp                    | Definitive Agreement
 $10.50        | RedBall Acquisition Corp.                    | Searching           
