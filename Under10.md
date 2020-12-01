@@ -1,81 +1,81 @@
-Status                                | Common Price  | Name                                                
-------------------------------------- | ------------- | ----------------------------------------------------
-Searching                             | $10.00        | Empower Ltd.                                        
-Searching (Pre Unit Split)            | $10.00        | HighCape Capital Acquisition Corp.                  
-Searching                             | $10.01        | CF Finance Acquisition Corp II                      
-Searching                             | $10.02        | Yucaipa Acquisition Corp                            
-Searching (Pre Unit Split)            | $10.02        | 5:01 Acquisition Corp                               
-Searching                             | $10.02        | Fusion Acquisition                                  
-Searching                             | $10.04        | Experience Investment Corp                          
-Searching                             | $10.05        | Trebia Acquisition Corp                             
-Searching                             | $10.05        | Union Acquisition Corp II                           
-Searching (Pre Unit Split)            | $10.06        | CC Neuberger Principal Holdings II                  
-Searching (Pre Unit Split)            | $10.06        | Climate Change Crisis Real Impact I Acquisition Corp
-Definitive Agreement                  | $10.07        | Haymaker Acquisition Corp. II                       
-Definitive Agreement                  | $10.07        | Churchill Capital Corp II                           
-Searching                             | $10.08        | SCVX Corp                                           
-Searching                             | $10.09        | FinServ Acquisition Corp                            
-Definitive Agreement                  | $10.09        | FS Development Corp.                                
-Definitive Agreement                  | $10.10        | Panacea Acquisition                                 
-Definitive Agreement (Pre Unit Split) | $10.10        | Mountain Crest Acquisition Corp                     
-Searching                             | $10.11        | LGL Systems Acquisition Corp                        
-Searching (Pre Unit Split)            | $10.12        | LifeSci Acquisition II Corp                         
-Searching (Pre Unit Split)            | $10.12        | Vy Global Growth                                    
-Searching (Pre Unit Split)            | $10.12        | Star Peak Energy Transition Corp                    
-Searching (Pre Unit Split)            | $10.13        | Horizon Acquisition Corp                            
-Searching                             | $10.14        | Galileo Acquisition Corp                            
-Definitive Agreement                  | $10.14        | Replay Acquisition Corp                             
-Searching                             | $10.15        | Andina Acquisition Corp III                         
-Definitive Agreement                  | $10.15        | Gores Holdings IV, Inc                              
-Searching                             | $10.15        | SC Health Corp                                      
-Searching                             | $10.15        | New Providence Acquisition Corp                     
-Searching                             | $10.16        | DFP Healthcare Acquisitions Corp                    
-Searching                             | $10.18        | GreenVision Acquisition Corp                        
-Searching                             | $10.20        | Osprey Technology Acquisition Corp                  
-Searching                             | $10.20        | Thunder Bridge Acquisition II                       
-Searching                             | $10.22        | Foley Trasimene Acquisition Corp                    
-Definitive Agreement                  | $10.22        | Acamar Partners Acquisition Corp                    
-Searching                             | $10.23        | Crescent Acquisition Corp                           
-Searching (Pre Unit Split)            | $10.23        | Vesper Healthcare Acquisition Corp.                 
-Searching (Pre Unit Split)            | $10.24        | Starboard Value Acquisition Corp.                   
-Searching (Pre Unit Split)            | $10.25        | CM Life Sciences, Inc.                              
-Searching (Pre Unit Split)            | $10.25        | TPG Pace Tech Opportunities Corp.                   
-Searching (Pre Unit Split)            | $10.28        | one                                                 
-Searching                             | $10.28        | Fortress Value Acquisition Corp. II                 
-Definitive Agreement                  | $10.29        | GigCapital2, Inc                                    
-Searching                             | $10.30        | CHP Merger Corp                                     
-Searching                             | $10.30        | CITIC Capital Acquisition Corp                      
-Searching                             | $10.30        | Silver Spike Acquisition Corp                       
-Definitive Agreement                  | $10.31        | Social Capital Hedosophia Holdings Corp. III        
-Searching (Pre Unit Split)            | $10.34        | RedBall Acquisition Corp.                           
-Searching (Pre Unit Split)            | $10.35        | VG Acquisition Corp                                 
-Searching                             | $10.37        | Tuscan Holdings Corp II                             
-Definitive Agreement                  | $10.37        | CC Neuberger Principal Holdings I                   
-Searching                             | $10.37        | Sustainable Opportunities Acquisition Corp          
-LOI                                   | $10.40        | Agba Acquisition Ltd                                
-Searching (Pre Unit Split)            | $10.40        | Helix Acquisition Corp                              
-Searching (Pre Unit Split)            | $10.40        | Falcon Capital Acquisition Corp.                    
-Searching                             | $10.42        | Deerfield Healthcare Technology Acquisitions        
-Searching                             | $10.43        | GS Acquisition Holdings II                          
-Searching                             | $10.43        | Juniper Industrial Holdings Inc                     
-Searching                             | $10.43        | ARYA Sciences Acquisition Corp III                  
-Definitive Agreement                  | $10.45        | Megalith Financial Acquisition Corp                 
-Searching (Pre Unit Split)            | $10.46        | Petra Acquisition, Inc.                             
-Searching (Pre Unit Split)            | $10.46        | Tortoise Acquisition Corp. II                       
-Searching                             | $10.47        | GX Acquisition Corp                                 
-Definitive Agreement                  | $10.49        | Oaktree Acquisition Corp                            
-Searching (Pre Unit Split)            | $10.49        | BCLS Acquisition Corp.                              
-Searching (Pre Unit Split)            | $10.52        | Foley Trasimene Acquisition Corp. II                
-Definitive Agreement                  | $10.55        | Schultze Special Purpose Acquisition Corp           
-Definitive Agreement                  | $10.58        | LF Capital Acquisition Corp                         
-Searching                             | $10.64        | Leisure Acquisition Corp                            
-Searching (Pre Unit Split)            | $10.65        | FinTech Acquisition Corp. IV                        
-Definitive Agreement                  | $10.67        | PropTech Acquisition Corp                           
-Searching (Pre Unit Split)            | $10.75        | ION Acquisition Corp 1 Ltd.                         
-Searching                             | $10.83        | Big Rock Partners Acquisition Corp                  
-Definitive Agreement                  | $10.90        | Tottenham Acquisition I                             
-Searching (Pre Unit Split)            | $10.92        | Dragoneer Growth Opportunities Corp. II             
-Definitive Agreement                  | $10.96        | Tenzing Acquisition Corp                            
-Definitive Agreement                  | $10.98        | Monocle Acquisition Corp                            
-Definitive Agreement                  | $10.99        | Roth CH Acquisition I Co                            
-Definitive Agreement                  | $10.99        | Interprivate Acquisition Corp                       
+Common Price  | Status                                | Name                                                
+------------- | ------------------------------------- | ----------------------------------------------------
+$10.00        | Searching                             | Empower Ltd.                                        
+$10.00        | Searching (Pre Unit Split)            | HighCape Capital Acquisition Corp.                  
+$10.01        | Definitive Agreement                  | CF Finance Acquisition Corp II                      
+$10.02        | Searching                             | Yucaipa Acquisition Corp                            
+$10.02        | Searching (Pre Unit Split)            | 5:01 Acquisition Corp                               
+$10.02        | Searching                             | Fusion Acquisition                                  
+$10.04        | Searching                             | Experience Investment Corp                          
+$10.05        | Searching                             | Trebia Acquisition Corp                             
+$10.05        | Searching                             | Union Acquisition Corp II                           
+$10.06        | Searching (Pre Unit Split)            | CC Neuberger Principal Holdings II                  
+$10.06        | Searching (Pre Unit Split)            | Climate Change Crisis Real Impact I Acquisition Corp
+$10.07        | Definitive Agreement                  | Haymaker Acquisition Corp. II                       
+$10.07        | Definitive Agreement                  | Churchill Capital Corp II                           
+$10.08        | Searching                             | SC Health Corp                                      
+$10.09        | Searching                             | FinServ Acquisition Corp                            
+$10.09        | Definitive Agreement                  | FS Development Corp.                                
+$10.10        | Searching                             | SCVX Corp                                           
+$10.10        | Definitive Agreement                  | Panacea Acquisition                                 
+$10.10        | Definitive Agreement (Pre Unit Split) | Mountain Crest Acquisition Corp                     
+$10.11        | Searching                             | LGL Systems Acquisition Corp                        
+$10.12        | Searching (Pre Unit Split)            | LifeSci Acquisition II Corp                         
+$10.12        | Searching (Pre Unit Split)            | Vy Global Growth                                    
+$10.12        | Searching                             | Star Peak Energy Transition Corp                    
+$10.13        | Searching (Pre Unit Split)            | Horizon Acquisition Corp                            
+$10.13        | Searching                             | New Providence Acquisition Corp                     
+$10.14        | Searching                             | Galileo Acquisition Corp                            
+$10.14        | Definitive Agreement                  | Replay Acquisition Corp                             
+$10.15        | Searching                             | Andina Acquisition Corp III                         
+$10.15        | Definitive Agreement                  | Gores Holdings IV, Inc                              
+$10.16        | Searching                             | DFP Healthcare Acquisitions Corp                    
+$10.18        | Searching                             | GreenVision Acquisition Corp                        
+$10.20        | Searching                             | Osprey Technology Acquisition Corp                  
+$10.20        | Searching                             | Thunder Bridge Acquisition II                       
+$10.22        | Searching                             | Foley Trasimene Acquisition Corp                    
+$10.22        | Definitive Agreement                  | Acamar Partners Acquisition Corp                    
+$10.23        | Searching                             | Crescent Acquisition Corp                           
+$10.23        | Searching (Pre Unit Split)            | Vesper Healthcare Acquisition Corp.                 
+$10.24        | Searching                             | Starboard Value Acquisition Corp.                   
+$10.25        | Searching (Pre Unit Split)            | CM Life Sciences, Inc.                              
+$10.25        | Searching                             | TPG Pace Tech Opportunities Corp.                   
+$10.28        | Searching (Pre Unit Split)            | one                                                 
+$10.28        | Searching                             | Fortress Value Acquisition Corp. II                 
+$10.29        | Definitive Agreement                  | GigCapital2, Inc                                    
+$10.30        | Searching                             | CHP Merger Corp                                     
+$10.30        | Searching                             | CITIC Capital Acquisition Corp                      
+$10.30        | Searching                             | Silver Spike Acquisition Corp                       
+$10.31        | Definitive Agreement                  | Social Capital Hedosophia Holdings Corp. III        
+$10.34        | Searching (Pre Unit Split)            | RedBall Acquisition Corp.                           
+$10.35        | Searching (Pre Unit Split)            | VG Acquisition Corp                                 
+$10.37        | Searching                             | Tuscan Holdings Corp II                             
+$10.37        | Definitive Agreement                  | CC Neuberger Principal Holdings I                   
+$10.37        | Searching                             | Sustainable Opportunities Acquisition Corp          
+$10.40        | LOI                                   | Agba Acquisition Ltd                                
+$10.40        | Searching (Pre Unit Split)            | Helix Acquisition Corp                              
+$10.40        | Searching (Pre Unit Split)            | Falcon Capital Acquisition Corp.                    
+$10.42        | Searching                             | Deerfield Healthcare Technology Acquisitions        
+$10.43        | Searching                             | GS Acquisition Holdings II                          
+$10.43        | Searching                             | Juniper Industrial Holdings Inc                     
+$10.43        | Searching                             | ARYA Sciences Acquisition Corp III                  
+$10.45        | Definitive Agreement                  | Megalith Financial Acquisition Corp                 
+$10.46        | Searching                             | Petra Acquisition, Inc.                             
+$10.46        | Searching                             | Tortoise Acquisition Corp. II                       
+$10.47        | Searching                             | GX Acquisition Corp                                 
+$10.49        | Searching (Pre Unit Split)            | BCLS Acquisition Corp.                              
+$10.52        | Searching (Pre Unit Split)            | Foley Trasimene Acquisition Corp. II                
+$10.52        | Definitive Agreement                  | Oaktree Acquisition Corp                            
+$10.55        | Definitive Agreement                  | Schultze Special Purpose Acquisition Corp           
+$10.58        | Definitive Agreement                  | LF Capital Acquisition Corp                         
+$10.64        | Searching                             | Leisure Acquisition Corp                            
+$10.65        | Searching (Pre Unit Split)            | FinTech Acquisition Corp. IV                        
+$10.67        | Definitive Agreement                  | PropTech Acquisition Corp                           
+$10.75        | Searching (Pre Unit Split)            | ION Acquisition Corp 1 Ltd.                         
+$10.83        | Searching                             | Big Rock Partners Acquisition Corp                  
+$10.90        | Definitive Agreement                  | Tottenham Acquisition I                             
+$10.92        | Searching                             | Dragoneer Growth Opportunities Corp. II             
+$10.96        | Definitive Agreement                  | Tenzing Acquisition Corp                            
+$10.98        | Definitive Agreement                  | Monocle Acquisition Corp                            
+$10.99        | Definitive Agreement                  | Roth CH Acquisition I Co                            
+$10.99        | Definitive Agreement                  | Interprivate Acquisition Corp                       
