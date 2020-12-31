@@ -1,134 +1,133 @@
-Status                                 | Name                                                 | Common Price 
--------------------------------------- | ---------------------------------------------------- | -------------
-Searching                              | Malacca Straits Acquisition                          | $10.00       
-Searching                              | Empower Ltd.                                         | $10.00       
-Searching                              | Yunhong International                                | $10.02       
-Searching                              | Seaport Global Acquisition Corp.                     | $10.03       
-Searching                              | Brilliant Acquisition                                | $10.03       
-Searching                              | Software Acquisition Group Inc. II                   | $10.04       
-Searching                              | Broadstone Acquisition Corp.                         | $10.04       
-Searching                              | Petra Acquisition, Inc.                              | $10.04       
-Definitive Agreement                   | East Stone Acquisition Corp                          | $10.05       
-Searching                              | Churchill Capital Corp IV                            | $10.07       
-Searching                              | Alpha Healthcare Acquisition Corp.                   | $10.08       
-Searching                              | HPX Corp                                             | $10.09       
-Searching                              | Lionheart Acquisition Corp. II                       | $10.09       
-Searching                              | East Resources Acquisition                           | $10.10       
-Searching                              | Vistas Media Acquisition Company Inc.                | $10.10       
-Searching                              | NewHold Investment Corp                              | $10.10       
-Searching                              | VPC Impact Acquisition Holdings                      | $10.10       
-Searching                              | Atlantic Street Acquisition Corp                     | $10.10       
-Searching                              | New Beginnings Acquisition Corp.                     | $10.10       
-Searching                              | LIV Capital Acquisition                              | $10.10       
-Searching                              | Breeze Holdings Acquisition Corp.                    | $10.10       
-Searching                              | Greenrose Acquisition Corp                           | $10.10       
-Searching                              | Industrial Tech Acquisitions, Inc.                   | $10.11       
-Searching                              | H.I.G. Acquisition Corp.                             | $10.11       
-Searching                              | Holicity Inc.                                        | $10.11       
-Searching                              | D8 Holdings Corp                                     | $10.11       
-Searching                              | Spring Valley Acquisition Corp.                      | $10.13       
-Searching                              | Eucrates Biomedical Acquisition Corp.                | $10.15       
-Searching                              | Capstar Special Purpose Acquisition                  | $10.15       
-Searching                              | Tekkorp Digital Acquisition Corp                     | $10.15       
-Searching                              | HighCape Capital Acquisition Corp.                   | $10.15       
-Searching                              | Recharge Acquisition Corp                            | $10.15       
-Searching                              | Kismet Acquisition One Corp                          | $10.15       
-Searching                              | Yucaipa Acquisition Corp                             | $10.15       
-Searching                              | NextGen Acquisition Corporation                      | $10.15       
-Searching                              | Spartacus Acquisition Corporation                    | $10.15       
-Searching                              | PTK Acquisition                                      | $10.16       
-Searching                              | NavSight Holdings, Inc.                              | $10.16       
-Searching                              | Sandbridge Acquisition Corporation                   | $10.17       
-Searching                              | PMV Consumer Acquisition Corp.                       | $10.17       
-Searching                              | Amplitude Healthcare Acquisition Corp                | $10.17       
-Searching                              | FAST Acquisition Corp.                               | $10.17       
-Searching                              | Edoc Acquisition Corp.                               | $10.18       
-Searching                              | Roman DBDR Tech Acquisition Corp.                    | $10.18       
-Searching                              | FG New America Acquisition Corp.                     | $10.18       
-Searching                              | Union Acquisition Corp II                            | $10.19       
-Searching                              | Aspirational Consumer Lifestyle Corp.                | $10.19       
-Searching                              | Greencity Acquisition                                | $10.20       
-Searching                              | CONX Corp.                                           | $10.20       
-Searching                              | Motion Acquisition Corp                              | $10.20       
-Searching                              | AEA-Bridges Impact Corp.                             | $10.20       
-Searching                              | Chardan Healthcare Acquisition 2 Corp                | $10.20       
-Searching                              | Better World Acquisition Corp.                       | $10.20       
-Searching                              | Prime Impact Acquisition I                           | $10.21       
-Searching                              | Horizon Acquisition Corp                             | $10.21       
-Searching                              | Alussa Energy Acquisition Corp                       | $10.22       
-Searching                              | GO Acquisition                                       | $10.22       
-Searching                              | E.Merge Technology Acquisition Corp                  | $10.22       
-Searching                              | Atlas Crest Investment Corp.                         | $10.23       
-Searching                              | Galileo Acquisition Corp                             | $10.24       
-Searching                              | SC Health Corp                                       | $10.24       
-Searching                              | Tailwind Acquisition Corp.                           | $10.25       
-Searching                              | Cerberus Telecom Acquisition Corp                    | $10.25       
-Searching                              | ACE Convergence Acquisition Corp                     | $10.25       
-Searching                              | ACON S2 Acquisition Corp.                            | $10.25       
-Searching                              | IG Acquisition Corp.                                 | $10.25       
-Searching                              | Montes Archimedes Acquisition Corp.                  | $10.26       
-Searching                              | Sports Entertainment Acquisition Corp.               | $10.26       
-Searching                              | Avanti Acquisition Corp                              | $10.27       
-Searching                              | CHP Merger Corp                                      | $10.27       
-Searching                              | GreenVision Acquisition Corp                         | $10.28       
-Searching                              | 5:01 Acquisition Corp                                | $10.28       
-Searching                              | North Mountain Merger Corp.                          | $10.28       
-Searching                              | BowX Acquisition Corp.                               | $10.28       
-Searching                              | Vector Acquisition Corp                              | $10.29       
-Searching                              | Merida Merger Corp. I                                | $10.30       
-Searching                              | OTR Acquisition Corp.                                | $10.30       
-Searching                              | CC Neuberger Principal Holdings II                   | $10.31       
-Searching                              | Horizon Acquisition Corp II                          | $10.31       
-Searching                              | Ascendant Digital Acquisition                        | $10.31       
-Searching                              | Yellowstone Acquisition Company                      | $10.31       
-Searching                              | Equity Distribution Acquisition Corp.                | $10.32       
-Searching                              | Lefteris Acquisition Corp.                           | $10.32       
-Searching                              | FTAC Olympus Acquisition                             | $10.34       
-Searching                              | Bluescape Opportunities Acquisition Corp.            | $10.35       
-Searching                              | Jiya Acquisition Corp.                               | $10.35       
-Searching                              | Osprey Technology Acquisition Corp                   | $10.35       
-Definitive Agreement                   | Churchill Capital Corp II                            | $10.39       
-Searching                              | DPCM Capital, Inc.                                   | $10.40       
-Searching                              | Burgundy Technology Acquisition Corp                 | $10.40       
-Definitive Agreement                   | Replay Acquisition Corp                              | $10.40       
-Searching                              | Oaktree Acquisition Corp. II                         | $10.41       
-Searching                              | Landcadia Holdings III, Inc.​                        | $10.42       
-Definitive Agreement                   | FS Development Corp.                                 | $10.44       
-Searching                              | Apollo Strategic Growth Capital                      | $10.44       
-Searching                              | Cohn Robbins Holdings Corp.                          | $10.46       
-Searching                              | Gores Holdings V, Inc                                | $10.46       
-Searching                              | Artius Acquisition                                   | $10.47       
-Searching                              | LGL Systems Acquisition Corp                         | $10.47       
-Searching                              | Bull Horn Holdings Corp.                             | $10.48       
-Searching                              | Peridot Acquisition Corp.                            | $10.50       
-LOI                                    | Agba Acquisition Ltd                                 | $10.51       
-Searching                              | CITIC Capital Acquisition Corp                       | $10.52       
-Searching                              | Crescent Acquisition Corp                            | $10.53       
-Searching                              | Vy Global Growth                                     | $10.54       
-Searching                              | LifeSci Acquisition II Corp                          | $10.55       
-Definitive Agreement (Merger Approved) | LF Capital Acquisition Corp                          | $10.55       
-Searching                              | Starboard Value Acquisition Corp.                    | $10.55       
-Searching                              | SCVX Corp                                            | $10.55       
-Searching                              | Helix Acquisition Corp                               | $10.60       
-Searching                              | Hudson Executive Investment                          | $10.62       
-Searching                              | Andina Acquisition Corp III                          | $10.63       
-Searching                              | Decarbonization Plus Acquisition Corporation         | $10.63       
-Searching                              | Climate Change Crisis Real Impact I Acquisition Corp | $10.64       
-Searching                              | TWC Tech Holdings II Corp                            | $10.65       
-Searching                              | Falcon Capital Acquisition Corp.                     | $10.66       
-Definitive Agreement                   | Mountain Crest Acquisition Corp                      | $10.68       
-Searching                              | Trebia Acquisition Corp                              | $10.72       
-Searching                              | FirstMark Horizon Acquisition Corp.
-                 | $10.74       
-Searching                              | Fortress Value Acquisition Corp. II                  | $10.75       
-Searching                              | Lux Health Tech Acquisition Corp.                    | $10.75       
-Searching                              | Tortoise Acquisition Corp. II                        | $10.78       
-Searching                              | one                                                  | $10.81       
-Searching                              | DFP Healthcare Acquisitions Corp                     | $10.81       
-Definitive Agreement                   | Juniper Industrial Holdings Inc                      | $10.86       
-Searching                              | GS Acquisition Holdings II                           | $10.87       
-Searching                              | Rice Acquisition Corp.                               | $10.88       
-Searching                              | ARYA Sciences Acquisition Corp III                   | $10.90       
-Definitive Agreement                   | CC Neuberger Principal Holdings I                    | $10.96       
-Definitive Agreement                   | GigCapital2, Inc                                     | $10.98       
-Searching                              | RedBall Acquisition Corp.                            | $10.99       
+Status                                 | Common Price  | Name                                                
+-------------------------------------- | ------------- | ----------------------------------------------------
+Searching                              | $10.00        | Good Works Acquisition Corp.                        
+Searching                              | $10.00        | Tekkorp Digital Acquisition Corp                    
+Searching                              | $10.01        | VPC Impact Acquisition Holdings                     
+Searching                              | $10.02        | Yunhong International                               
+Searching                              | $10.02        | Empower Ltd.                                        
+Searching                              | $10.02        | Petra Acquisition, Inc.                             
+Searching                              | $10.05        | Brilliant Acquisition                               
+Definitive Agreement                   | $10.06        | East Stone Acquisition Corp                         
+Searching                              | $10.07        | East Resources Acquisition                          
+Searching                              | $10.07        | Holicity Inc.                                       
+Searching                              | $10.07        | Software Acquisition Group Inc. II                  
+Searching                              | $10.07        | Churchill Capital Corp IV                           
+Searching                              | $10.09        | NewHold Investment Corp                             
+Searching                              | $10.09        | LIV Capital Acquisition                             
+Searching                              | $10.10        | D8 Holdings Corp                                    
+Searching                              | $10.10        | Industrial Tech Acquisitions, Inc.                  
+Searching                              | $10.10        | Vistas Media Acquisition Company Inc.               
+Searching                              | $10.10        | Yucaipa Acquisition Corp                            
+Searching                              | $10.11        | Lionheart Acquisition Corp. II                      
+Searching                              | $10.11        | H.I.G. Acquisition Corp.                            
+Searching                              | $10.11        | Breeze Holdings Acquisition Corp.                   
+Searching                              | $10.12        | Broadstone Acquisition Corp.                        
+Searching                              | $10.12        | PMV Consumer Acquisition Corp.                      
+Searching                              | $10.12        | Atlantic Street Acquisition Corp                    
+Searching                              | $10.12        | HPX Corp                                            
+Searching                              | $10.13        | New Beginnings Acquisition Corp.                    
+Searching                              | $10.13        | Greenrose Acquisition Corp                          
+Searching                              | $10.14        | Montes Archimedes Acquisition Corp.                 
+Searching                              | $10.15        | HighCape Capital Acquisition Corp.                  
+Searching                              | $10.15        | Prime Impact Acquisition I                          
+Searching                              | $10.15        | Eucrates Biomedical Acquisition Corp.               
+Searching                              | $10.15        | Kismet Acquisition One Corp                         
+Searching                              | $10.15        | Sandbridge Acquisition Corporation                  
+Searching                              | $10.15        | Spartacus Acquisition Corporation                   
+Searching                              | $10.15        | Alussa Energy Acquisition Corp                      
+Searching                              | $10.15        | Alpha Healthcare Acquisition Corp.                  
+Searching                              | $10.16        | NavSight Holdings, Inc.                             
+Searching                              | $10.17        | FAST Acquisition Corp.                              
+Searching                              | $10.18        | Recharge Acquisition Corp                           
+Searching                              | $10.18        | PTK Acquisition                                     
+Searching                              | $10.18        | Roman DBDR Tech Acquisition Corp.                   
+Searching                              | $10.18        | AEA-Bridges Impact Corp.                            
+Searching                              | $10.18        | Aspirational Consumer Lifestyle Corp.               
+Searching                              | $10.19        | Spring Valley Acquisition Corp.                     
+Searching                              | $10.19        | FG New America Acquisition Corp.                    
+Searching                              | $10.20        | Atlas Crest Investment Corp.                        
+Searching                              | $10.20        | CONX Corp.                                          
+Searching                              | $10.20        | E.Merge Technology Acquisition Corp                 
+Searching                              | $10.20        | NextGen Acquisition Corporation                     
+Searching                              | $10.20        | Chardan Healthcare Acquisition 2 Corp               
+Searching                              | $10.20        | Greencity Acquisition                               
+Searching                              | $10.21        | Horizon Acquisition Corp                            
+Searching                              | $10.22        | Motion Acquisition Corp                             
+Searching                              | $10.22        | ACE Convergence Acquisition Corp                    
+Searching                              | $10.22        | Galileo Acquisition Corp                            
+Searching                              | $10.22        | Better World Acquisition Corp.                      
+Searching                              | $10.22        | GO Acquisition                                      
+Searching                              | $10.23        | Union Acquisition Corp II                           
+Searching                              | $10.24        | IG Acquisition Corp.                                
+Searching                              | $10.24        | SC Health Corp                                      
+Searching                              | $10.24        | Edoc Acquisition Corp.                              
+Searching                              | $10.25        | Tailwind Acquisition Corp.                          
+Searching                              | $10.25        | Amplitude Healthcare Acquisition Corp               
+Searching                              | $10.25        | Sports Entertainment Acquisition Corp.              
+Searching                              | $10.25        | Capstar Special Purpose Acquisition                 
+Searching                              | $10.26        | ACON S2 Acquisition Corp.                           
+Searching                              | $10.27        | Cerberus Telecom Acquisition Corp                   
+Searching                              | $10.28        | North Mountain Merger Corp.                         
+Searching                              | $10.28        | 5:01 Acquisition Corp                               
+Searching                              | $10.29        | GreenVision Acquisition Corp                        
+Searching                              | $10.29        | Merida Merger Corp. I                               
+Searching                              | $10.30        | CHP Merger Corp                                     
+Searching                              | $10.30        | Avanti Acquisition Corp                             
+Searching                              | $10.31        | Ascendant Digital Acquisition                       
+Searching                              | $10.32        | OTR Acquisition Corp.                               
+Searching                              | $10.32        | Equity Distribution Acquisition Corp.               
+Searching                              | $10.33        | BowX Acquisition Corp.                              
+Searching                              | $10.35        | Osprey Technology Acquisition Corp                  
+Searching                              | $10.35        | Horizon Acquisition Corp II                         
+Searching                              | $10.35        | Jiya Acquisition Corp.                              
+Searching                              | $10.35        | FTAC Olympus Acquisition                            
+Searching                              | $10.36        | CC Neuberger Principal Holdings II                  
+Searching                              | $10.38        | Bluescape Opportunities Acquisition Corp.           
+Definitive Agreement                   | $10.39        | Churchill Capital Corp II                           
+Searching                              | $10.40        | Burgundy Technology Acquisition Corp                
+Definitive Agreement                   | $10.40        | Replay Acquisition Corp                             
+Searching                              | $10.40        | Apollo Strategic Growth Capital                     
+Searching                              | $10.40        | DPCM Capital, Inc.                                  
+Searching                              | $10.40        | Oaktree Acquisition Corp. II                        
+Searching                              | $10.41        | Yellowstone Acquisition Company                     
+Searching                              | $10.42        | Vector Acquisition Corp                             
+Searching                              | $10.44        | Landcadia Holdings III, Inc.​                       
+Searching                              | $10.44        | Lefteris Acquisition Corp.                          
+Searching                              | $10.44        | Bull Horn Holdings Corp.                            
+Searching                              | $10.45        | Cohn Robbins Holdings Corp.                         
+Searching                              | $10.46        | Gores Holdings V, Inc                               
+Searching                              | $10.46        | LGL Systems Acquisition Corp                        
+Searching                              | $10.47        | Artius Acquisition                                  
+Definitive Agreement                   | $10.47        | FS Development Corp.                                
+Searching                              | $10.48        | Crescent Acquisition Corp                           
+Searching                              | $10.49        | Peridot Acquisition Corp.                           
+Searching                              | $10.50        | CITIC Capital Acquisition Corp                      
+Searching                              | $10.50        | SCVX Corp                                           
+Searching                              | $10.53        | Vy Global Growth                                    
+LOI                                    | $10.54        | Agba Acquisition Ltd                                
+Searching                              | $10.54        | Starboard Value Acquisition Corp.                   
+Searching                              | $10.55        | LifeSci Acquisition II Corp                         
+Definitive Agreement (Merger Approved) | $10.57        | LF Capital Acquisition Corp                         
+Searching                              | $10.61        | Decarbonization Plus Acquisition Corporation        
+Searching                              | $10.62        | Trebia Acquisition Corp                             
+Searching                              | $10.62        | Hudson Executive Investment                         
+Definitive Agreement                   | $10.68        | Mountain Crest Acquisition Corp                     
+Searching                              | $10.70        | FirstMark Horizon Acquisition Corp.
+                
+Searching                              | $10.70        | TWC Tech Holdings II Corp                           
+Searching                              | $10.70        | Falcon Capital Acquisition Corp.                    
+Searching                              | $10.71        | Andina Acquisition Corp III                         
+Searching                              | $10.74        | Climate Change Crisis Real Impact I Acquisition Corp
+Searching                              | $10.75        | Lux Health Tech Acquisition Corp.                   
+Definitive Agreement                   | $10.78        | Juniper Industrial Holdings Inc                     
+Searching                              | $10.80        | DFP Healthcare Acquisitions Corp                    
+Searching                              | $10.80        | one                                                 
+Searching                              | $10.83        | Tortoise Acquisition Corp. II                       
+Searching                              | $10.84        | Fortress Value Acquisition Corp. II                 
+Searching                              | $10.87        | GS Acquisition Holdings II                          
+Searching                              | $10.87        | Rice Acquisition Corp.                              
+Searching                              | $10.90        | ARYA Sciences Acquisition Corp III                  
+Searching                              | $10.94        | Helix Acquisition Corp                              
+Definitive Agreement                   | $10.96        | GigCapital2, Inc                                    
+Searching                              | $10.96        | RedBall Acquisition Corp.                           
+Definitive Agreement                   | $10.98        | CC Neuberger Principal Holdings I                   
